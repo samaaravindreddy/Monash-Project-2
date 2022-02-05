@@ -22,8 +22,7 @@ Mino Peric QS World University Rankings 2019.csv<br />
 
 Project plan and development<br />
 
-Each member of the team will work with one CSV file, drop two column logo and retain year, rank_display, university, score, country, city, region and link.
-Use the link of the universities to extract the city where missing and then drop the column.
+Each member of the team will work with one CSV file, drop two column logo and retain year, rank_display, university, score, country, city and region.
 
 Replace NAN values in "score" column with zero
 
