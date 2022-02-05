@@ -22,11 +22,11 @@ Mino Peric QS World University Rankings 2019.csv<br />
 
 Project plan and development<br />
 
-Each member of the team will work with one CSV file, drop two column logo and retain year, rank_display, university, score, country, city and region.
+Each member of the team will work with one CSV file, drop two columns logo and link, and retain year, rank_display, university, score, country, city and region.
 
 Replace NAN values in "score" column with zero
 
-For the "rank_display" column, replace NAN values with zero, retain the lower rank and drop the additional information such as "+" or anything after "-" when the rank_display contains rages
+For the "rank_display" column, replace NAN values with zero, retain the lower rank and drop the additional information such as "+" or anything after "-" when the rank_display contains ranges.
 
 While analysing the data in Excel by using pivot table, it can be noted that, although some universities appear in all years, there are others that only have data in some of the years with an increased number in 2022. For example, there are 1018 universities in the 2019 CSV file and 1300 in 2022.<br />
 
