@@ -4,7 +4,9 @@
 
 ### QS World University Rankings 2017-2022  
 
-Dataset source https://www.kaggle.com/prasertk/qs-world-university-rankings-2021?select=QS+World+University+Rankings+combined.csv.<br />
+Dataset source:
+
+https://www.kaggle.com/prasertk/qs-world-university-rankings-2021?select=QS+World+University+Rankings+combined.csv.<br />
 
 ##### Team members
 
@@ -15,7 +17,9 @@ Mino Peric<br />
 
 ## Project Proposal
 
-Review, analyse and group the QS World University Rankings by using CSV files available on Kaggle, https://www.kaggle.com/prasertk/qs-world-university-rankings-2021?select=QS+World+University+Rankings+combined.csv.  
+Review, analyse and group the QS World University Rankings by using CSV files available on Kaggle:
+
+https://www.kaggle.com/prasertk/qs-world-university-rankings-2021?select=QS+World+University+Rankings+combined.csv.  
 
 The selected dataset contains a number of six CSV files, one for each year, plus one for the combined data. The database to be created will include information from at least four files, being for ranking for the period 2019 - 2022.  
 
@@ -47,12 +51,15 @@ Check the files for missing values by using different methods such as heat map v
 ##### Extract
 
 The original data was formatted in CSV files by year with specific columns for university, rank_display, score, country, region, city, logo and link. The datatype differs, and for 2021, as an example, the year column has datatype integer, the score is float and all the other columns are object.
+
 The original data contains numbers or ranges for rank_display and some rows contain special characters such as "-" and "+".
+
 Each file has around 1000 rows, representing universities around the world.
 
 ##### Transform
 
 Data cleaning required for the files included:   
+
 - replace NAN values in the "score" column with zero,   
 - rename "rank_display" column as "rank"and replace NAN values with zero, retain the lower rank, drop unnecessary information such as special characters, remove "=" sing that appears in front of the rank in some rows.
 
@@ -71,9 +78,4 @@ The table uni_rank has the following headings university, year, rank, score. Thi
 From 2017 to 2021, the Massachusetts University of Technology (MIT), Stanford University, and Harvard University took out first, second, and third place in the QS Top University rankings, respectively. In 2022, MIT continued to be placed as the top-ranked university globally, with The University of Oxford being ranked second, Stanford University placing third, and Harvard University placing fifth overall. 
 
 Consequently, for each year included in the study, the top ten university rankings consisted of universities from OECD-member countries, including USA, Switzerland and the United Kingdom, implying a positive correlation between high-university standards and high-income economies worldwide.
-
-
-
-
-
 
