@@ -1,11 +1,12 @@
-# Monash-Project-2
-MONU Project2
+# ETL-Project-Group-1
 
 ## Project subject  
 
 ### QS World University Rankings 2017-2022  
 
-Dataset source https://www.kaggle.com/prasertk/qs-world-university-rankings-2021?select=QS+World+University+Rankings+combined.csv.<br />
+Dataset source:
+
+https://www.kaggle.com/prasertk/qs-world-university-rankings-2021?select=QS+World+University+Rankings+combined.csv.<br />
 
 ##### Team members
 
@@ -16,20 +17,22 @@ Mino Peric<br />
 
 ## Project Proposal
 
-Review, analyse and group the QS World University Rankings by using CSV files available on Kaggle, https://www.kaggle.com/prasertk/qs-world-university-rankings-2021?select=QS+World+University+Rankings+combined.csv.  
+Review, analyse and group the QS World University Rankings by using CSV files available on Kaggle:
+
+https://www.kaggle.com/prasertk/qs-world-university-rankings-2021?select=QS+World+University+Rankings+combined.csv.  
 
 The selected dataset contains a number of six CSV files, one for each year, plus one for the combined data. The database to be created will include information from at least four files, being for ranking for the period 2019 - 2022.  
 
 The database is a relational database being structures in tables for universities and ranking. 
 
-QS World University Rankings is published annually by UK company Quacquarelli Symonds (QS) that analysis higher education institutions around the world and publish the results, in the current form, since 2004. The list contains more than 1000 universities and it is a trusted reference top universities in the world. 
+QS World University Rankings is published annually by UK company "Quacquarelli Symonds" (QS) that analysis higher education institutions around the world and publish the results, in the current form, since 2004. The list contains more than 1000 universities and it is a trusted reference top universities in the world. 
 
 Suggested files allocation<br />
 
-Anh Huong QS World University Rankings 2022.csv<br />
-Daniela Cornea QS World University Rankings 2021.csv<br />
-Aravind Sama QS World University Rankings 2020.csv<br />
-Mino Peric QS World University Rankings 2019.csv<br />
+Anh Huong, "QS World University Rankings 2022.csv"<br />
+Daniela Cornea, "QS World University Rankings 2021.csv"<br />
+Aravind Sama, "QS World University Rankings 2020.csv"<br />
+Mino Peric, "QS World University Rankings 2019.csv"<br />
 
 #### Project plan and development<br />
 
@@ -48,12 +51,15 @@ Check the files for missing values by using different methods such as heat map v
 ##### Extract
 
 The original data was formatted in CSV files by year with specific columns for university, rank_display, score, country, region, city, logo and link. The datatype differs, and for 2021, as an example, the year column has datatype integer, the score is float and all the other columns are object.
+
 The original data contains numbers or ranges for rank_display and some rows contain special characters such as "-" and "+".
+
 Each file has around 1000 rows, representing universities around the world.
 
 ##### Transform
 
 Data cleaning required for the files included:   
+
 - replace NAN values in the "score" column with zero,   
 - rename "rank_display" column as "rank"and replace NAN values with zero, retain the lower rank, drop unnecessary information such as special characters, remove "=" sign that appears in front of the rank in some rows.
 
@@ -67,9 +73,10 @@ The headings for universities table are university, country, city and region. Th
 
 The table uni_rank has the following headings university, year, rank, score. This table contains information about ranking by year. It permits analysing and plotting data for a longer period.
 
+##### Summary
 
+From 2017 to 2021, the Massachusetts University of Technology (MIT), Stanford University, and Harvard University took out first, second, and third place in the QS Top University rankings, respectively.
 
+In 2022, MIT continued to be placed as the top-ranked university globally, with The University of Oxford being ranked second, Stanford University placing third, and Harvard University placing fifth overall. 
 
-
-
-
+Consequently, for each year included in the study, the top ten university rankings consisted of universities from OECD-member countries, including USA, Switzerland and the United Kingdom, implying a positive correlation between high-university standards and high-income economies worldwide.
