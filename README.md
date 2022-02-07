@@ -23,9 +23,9 @@ https://www.kaggle.com/prasertk/qs-world-university-rankings-2021?select=QS+Worl
 
 The selected dataset contains a number of six CSV files, one for each year, plus one for the combined data. The database to be created will include information from at least four files, being for ranking for the period 2019 - 2022.  
 
-The database is a relational database being structures in tables for universities and ranking. 
+The database is a relational database being structured in tables for universities and ranking. 
 
-QS World University Rankings is published annually by UK company "Quacquarelli Symonds" (QS) that analysis higher education institutions around the world and publish the results, in the current form, since 2004. The list contains more than 1000 universities and it is a trusted reference top universities in the world. 
+QS World University Rankings is published annually by UK company "Quacquarelli Symonds" (QS) that analysis higher education institutions around the world and publish the results, in the current form, since 2004. The list contains more than 1000 universities and it is a trusted reference for top universities in the world. 
 
 Suggested files allocation<br />
 
