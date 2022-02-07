@@ -1,0 +1,1186 @@
+,year,rank_display,university,score,country,city,region,rank
+0,2021,1,Massachusetts Institute of Technology (MIT) ,100.0,United States,Cambridge,North America,1
+1,2021,2,Stanford University,98.4,United States,Stanford,North America,2
+2,2021,3,Harvard University,97.9,United States,Cambridge,North America,3
+3,2021,4,California Institute of Technology (Caltech),97.0,United States,Pasadena,North America,4
+4,2021,5,University of Oxford,96.7,United Kingdom,Oxford,Europe,5
+5,2021,6,ETH Zurich - Swiss Federal Institute of Technology,95.0,Switzerland,Zürich,Europe,6
+6,2021,7,University of Cambridge,94.3,United Kingdom,Cambridge,Europe,7
+7,2021,8,Imperial College London,93.6,United Kingdom,London,Europe,8
+8,2021,9,University of Chicago,93.1,United States,Chicago,North America,9
+9,2021,10,UCL,92.9,United Kingdom,London,Europe,10
+10,2021,11,National University of Singapore (NUS),91.5,Singapore,Singapore,Asia,11
+11,2021,12,Princeton University,91.0,United States,Princeton,North America,12
+12,2021,13,"Nanyang Technological University, Singapore (NTU)",89.9,Singapore,Singapore,Asia,13
+13,2021,14,EPFL,89.6,Switzerland,Lausanne,Europe,14
+14,2021,15,Tsinghua University,89.2,China (Mainland),Beijing,Asia,15
+15,2021,16,University of Pennsylvania,88.6,United States,Philadelphia,North America,16
+16,2021,17,Yale University,88.0,United States,New Haven,North America,17
+17,2021,18,Cornell University,87.6,United States,Ithaca,North America,18
+18,2021,19,Columbia University,86.5,United States,New York City,North America,19
+19,2021,20,The University of Edinburgh,85.8,United Kingdom,Edinburgh,Europe,20
+20,2021,21,University of Michigan-Ann Arbor,84.6,United States,Ann Arbor,North America,21
+21,2021,22,The University of Hong Kong,83.7,Hong Kong SAR,Hong Kong,Asia,22
+22,2021,23,Peking University,83.5,China (Mainland),Beijing,Asia,23
+23,2021,24,The University of Tokyo,83.2,Japan,Tokyo,Asia,24
+24,2021,25,Johns Hopkins University,82.7,United States,Baltimore,North America,25
+25,2021,25,University of Toronto,82.7,Canada,Toronto,North America,25
+26,2021,27,The Hong Kong University of Science and Technology,82.1,Hong Kong SAR,Hong Kong,Asia,27
+27,2021,27,The University of Manchester,82.1,United Kingdom,Manchester,Europe,27
+28,2021,29,Northwestern University,81.5,United States,Evanston,North America,29
+29,2021,30,"University of California, Berkeley (UCB)",80.8,United States,Berkeley,North America,30
+30,2021,31,The Australian National University,80.0,Australia,Canberra,Oceania,31
+31,2021,31,King's College London,80.0,United Kingdom,London,Europe,31
+32,2021,31,McGill University,80.0,Canada,Montreal,North America,31
+33,2021,34,Fudan University,79.9,China (Mainland),Shanghai,Asia,34
+34,2021,35,New York University (NYU),79.4,United States,New York City,North America,35
+35,2021,36,"University of California, Los Angeles (UCLA)",79.2,United States,Los Angeles,North America,36
+36,2021,37,Seoul National University,79.0,South Korea,Seoul,Asia,37
+37,2021,38,Kyoto University,78.9,Japan,Kyoto,Asia,38
+38,2021,39,KAIST - Korea Advanced Institute of Science & Technology,78.6,South Korea,Daejeon,Asia,39
+39,2021,40,The University of Sydney,77.1,Australia,Sydney,Oceania,40
+40,2021,41,The University of Melbourne,76.5,Australia,Parkville,Oceania,41
+41,2021,42,Duke University,76.4,United States,Durham,North America,42
+42,2021,43,The Chinese University of Hong Kong (CUHK),75.8,Hong Kong SAR,Hong Kong,Asia,43
+43,2021,44,The University of New South Wales (UNSW Sydney),75.4,Australia,Sydney,Oceania,44
+44,2021,45,University of British Columbia,74.8,Canada,Vancouver,North America,45
+45,2021,46,The University of Queensland,74.5,Australia,Brisbane,Oceania,46
+46,2021,47,Shanghai Jiao Tong University,74.4,China (Mainland),Shanghai,Asia,47
+47,2021,48,City University of Hong Kong,74.3,Hong Kong SAR,Hong Kong,Asia,48
+48,2021,49,The London School of Economics and Political Science (LSE),73.9,United Kingdom,London,Europe,49
+49,2021,50,Technical University of Munich,73.6,Germany,Munich,Europe,50
+50,2021,51,Carnegie Mellon University,73.4,United States,Pittsburgh,North America,51
+51,2021,52,Université PSL,73.3,France,,Europe,52
+52,2021,53,Zhejiang University,71.9,China (Mainland),Hangzhou,Asia,53
+53,2021,54,"University of California, San Diego (UCSD)",71.2,United States,San Diego,North America,54
+54,2021,55,Monash University,70.9,Australia,Melbourne,Oceania,55
+55,2021,56,Tokyo Institute of Technology (Tokyo Tech),70.8,Japan,Tokyo,Asia,56
+56,2021,57,Delft University of Technology,70.7,Netherlands,Delft,Europe,57
+57,2021,58,University of Bristol,70.6,United Kingdom,Bristol,Europe,58
+58,2021,59,Universiti Malaya (UM),70.1,Malaysia,Kuala Lumpur,Asia,59
+59,2021,60,Brown University,70.0,United States,Providence,North America,60
+60,2021,61,University of Amsterdam,69.9,Netherlands,Amsterdam,Europe,61
+61,2021,61,Ecole Polytechnique,69.9,France,Palaiseau,Europe,61
+62,2021,62,The University of Warwick,69.0,United Kingdom,Coventry,Europe,62
+63,2021,63,Ludwig-Maximilians-Universität München,68.9,Germany,Munich,Europe,63
+64,2021,64,Ruprecht-Karls-Universität Heidelberg,68.6,Germany,Heidelberg,Europe,64
+65,2021,65,University of Wisconsin-Madison,68.2,United States,Madison,North America,65
+66,2021,66,National Taiwan University (NTU),67.5,Taiwan,Taipei City,Asia,66
+67,2021,66,Universidad de Buenos Aires (UBA),67.5,Argentina,Buenos Aires,Latin America,66
+68,2021,69,Korea University,67.1,South Korea,Seoul,Asia,69
+69,2021,69,University of Zurich,67.1,Switzerland,Zürich,Europe,69
+70,2021,71,University of Texas at Austin,66.7,United States,Austin,North America,71
+71,2021,72,Osaka University,66.1,Japan,Osaka City,Asia,72
+72,2021,72,University of Washington,66.1,United States,Seattle,North America,72
+73,2021,74,Lomonosov Moscow State University,65.9,Russia,Moscow,Europe,74
+74,2021,75,The Hong Kong Polytechnic University,65.8,Hong Kong SAR,Hong Kong,Asia,75
+75,2021,76,University of Copenhagen,65.5,Denmark,Copenhagen,Europe,76
+76,2021,77,Pohang University of Science And Technology (POSTECH),64.6,South Korea,Pohang ,Asia,77
+77,2021,77,University of Glasgow,64.6,United Kingdom,Glasgow,Europe,77
+78,2021,79,Tohoku University,64.3,Japan,Sendai City,Asia,79
+79,2021,80,Georgia Institute of Technology,64.1,United States,Atlanta,North America,80
+80,2021,81,The University of Auckland,64.0,New Zealand,Auckland,Oceania,81
+81,2021,82,University of Illinois at Urbana-Champaign,63.4,United States,Champaign,North America,82
+82,2021,83,Sorbonne University,63.3,France,,Europe,83
+83,2021,84,KU Leuven,63.0,Belgium,Leuven,Europe,84
+84,2021,86,Durham University,62.2,United Kingdom,Durham,Europe,86
+85,2021,85,Yonsei University,62.5,South Korea,Seoul,Asia,85
+86,2021,87,University of Birmingham,62.0,United Kingdom,Birmingham,Europe,87
+87,2021,88,Sungkyunkwan University(SKKU),61.5,South Korea,Suwon,Asia,88
+88,2021,89,Rice University,61.4,United States,Houston,North America,89
+89,2021,90,University of Southampton,61.3,United Kingdom,Southampton,Europe,90
+90,2021,91,University of Leeds,61.2,United Kingdom,Leeds,Europe,91
+91,2021,92,The University of Western Australia,61.0,Australia,Perth,Oceania,92
+92,2021,93,The University of Sheffield,60.8,United Kingdom,Sheffield,Europe,93
+93,2021,93,University of Science and Technology of China,60.8,China (Mainland),Hefei,Asia,93
+94,2021,95,"University of North Carolina, Chapel Hill",60.6,United States,Chapel Hill,North America,95
+95,2021,96,University of St Andrews,60.3,United Kingdom,St. Andrews,Europe,96
+96,2021,97,Lund University,60.2,Sweden,Lund,Europe,97
+97,2021,98,KTH Royal Institute of Technology ,59.5,Sweden,Stockholm,Europe,98
+98,2021,99,University of Nottingham,59.0,United Kingdom,Nottingham,Europe,99
+99,2021,100,Universidad Nacional Autónoma de México  (UNAM),58.8,Mexico,Mexico City,Latin America,100
+100,2021,101,Pennsylvania State University,58.4,United States,University Park,North America,101
+101,2021,101,"Trinity College Dublin, The University of Dublin",58.4,Ireland,Dublin,Europe,101
+102,2021,103,Technical University of Denmark,57.9,Denmark,Kongens Lyngby,Europe,103
+103,2021,104,University of Helsinki,57.6,Finland,Helsinki,Europe,104
+104,2021,105,Washington University in St. Louis,56.9,United States,St. Louis,North America,105
+105,2021,106,The University of Adelaide,56.8,Australia,Adelaide,Oceania,106
+106,2021,106,University of Geneva,56.8,Switzerland,Geneva,Europe,106
+107,2021,108,The Ohio State University,56.4,United States,Columbus,North America,108
+108,2021,109,Purdue University,55.9,United States,West Lafayette,North America,109
+109,2021,110,Boston University,55.8,United States,Boston,North America,110
+110,2021,110,Nagoya University,55.8,Japan,Nagoya,Asia,110
+111,2021,112,"University of California, Davis",55.3,United States,Davis,North America,112
+112,2021,113,University of Oslo,55.2,Norway,Oslo,Europe,113
+113,2021,=114,University of Bern,54.9,Switzerland,Bern,Europe,=114
+114,2021,=114,Queen Mary University of London,55.1,United Kingdom,London,Europe,=114
+115,2021,115,Universidade de São Paulo,54.8,Brazil,São Paulo,Latin America,115
+116,2021,115,Wageningen University & Research,54.8,Netherlands,Wageningen,Europe,115
+117,2021,117,Humboldt-Universität zu Berlin,54.5,Germany,Berlin,Europe,117
+118,2021,118,Université de Montréal ,54.3,Canada,Montreal,North America,118
+119,2021,119,University of Alberta,54.0,Canada,Edmonton,North America,119
+120,2021,120,Eindhoven University of Technology,53.9,Netherlands,Eindhoven,Europe,120
+121,2021,121,Pontificia Universidad Católica de Chile (UC),53.8,Chile,Santiago,Latin America,121
+122,2021,121,University of Southern California,53.8,United States,Los Angeles,North America,121
+123,2021,121,Utrecht University,53.8,Netherlands,Utrecht,Europe,121
+124,2021,124,Kyushu University,53.7,Japan,Fukuoka City,Asia,124
+125,2021,124,Nanjing University,53.7,China (Mainland),Nanjing,Asia,124
+126,2021,124,Uppsala University,53.7,Sweden,Uppsala,Europe,124
+127,2021,127,Aalto University,53.6,Finland,Espoo,Europe,127
+128,2021,128,Leiden University,53.4,Netherlands,Leiden,Europe,128
+129,2021,128,University of Groningen,53.4,Netherlands,Groningen,Europe,128
+130,2021,130,Freie Universitaet Berlin,53.2,Germany,Berlin,Europe,130
+131,2021,131,"KIT, Karlsruhe Institute of Technology",52.9,Germany,Karlsruhe,Europe,131
+132,2021,132,Universiti Putra Malaysia (UPM),52.7,Malaysia,Seri Kembangan,Asia,132
+133,2021,133,University of Technology Sydney,52.6,Australia,Haymarket,Oceania,133
+134,2021,135,Lancaster University,52.5,United Kingdom,Lancaster,Europe,135
+135,2021,135,Ghent University,52.5,Belgium,Ghent,Europe,135
+136,2021,137,Politecnico di Milano,52.4,Italy,Milan,Europe,137
+137,2021,138,CentraleSupélec,52.3,France,Saint-Aubin,Europe,138
+138,2021,139,Chalmers University of Technology,52.2,Sweden,Gothenburg,Europe,139
+139,2021,139,Hokkaido University,52.2,Japan,Sapporo,Asia,139
+140,2021,141,Universiti Kebangsaan Malaysia (UKM),52.0,Malaysia,Bangi,Asia,141
+141,2021,142,Universiti Sains Malaysia (USM),51.9,Malaysia,Gelugor,Asia,142
+142,2021,143,King Abdulaziz University (KAU),51.7,Saudi Arabia,Jeddah,Asia,143
+143,2021,144,McMaster University,51.5,Canada,Hamilton,North America,144
+144,2021,145,RWTH Aachen University,51.4,Germany,Aachen,Europe,145
+145,2021,146,Hanyang University,51.3,South Korea,Seoul,Asia,146
+146,2021,147,Aarhus University,51.0,Denmark,,Europe,147
+147,2021,148,Technische Universität Berlin (TU Berlin),50.8,Germany,Berlin,Europe,148
+148,2021,149,University of Basel,50.6,Switzerland,Basel,Europe,149
+149,2021,150,University of Vienna,50.3,Austria,Vienna,Europe,150
+150,2021,150,University of York,50.3,United Kingdom,York,Europe,150
+151,2021,152,Newcastle University,50.2,United Kingdom,Newcastle upon Tyne,Europe,152
+152,2021,152,"University of California, Santa Barbara (UCSB)",50.2,United States,Santa Barbara,North America,152
+153,2021,152,"University of Maryland, College Park",50.2,United States,College Park,North America,152
+154,2021,155,Tecnológico de Monterrey,49.9,Mexico,Monterrey,Latin America,155
+155,2021,156,University of Pittsburgh,49.7,United States,Pittsburgh,North America,156
+156,2021,157,Michigan State University,49.6,United States,East Lansing,North America,157
+157,2021,158,Emory University,49.1,United States,Atlanta,North America,158
+158,2021,159,Cardiff University,48.5,United Kingdom,Cardiff,Europe,159
+159,2021,160,Alma Mater Studiorum - University of Bologna,48.2,Italy,Bologna,Europe,160
+160,2021,161,École Normale Supérieure de Lyon,48.1,France,Lyon,Europe,161
+161,2021,162,Case Western Reserve University,47.4,United States,Cleveland,North America,162
+162,2021,162,University of Florida,47.4,United States,Gainesville,North America,162
+163,2021,164,The University of Exeter,47.2,United Kingdom,Exeter,Europe,164
+164,2021,165,University of Rochester,46.9,United States,Rochester,North America,165
+165,2021,165,Al-Farabi Kazakh National University,46.9,Kazakhstan,Almaty,Asia,165
+166,2021,166,University of Waterloo,46.8,Canada,Waterloo,North America,166
+167,2021,168,National Tsing Hua University,46.4,Taiwan,Hsinchu City,Asia,168
+168,2021,169,Texas A&M University,46.2,United States,College Station,North America,169
+169,2021,169,University of Lausanne,46.2,Switzerland,Lausanne,Europe,169
+170,2021,171,Sapienza University of Rome,46.1,Italy,Rome,Europe,171
+171,2021,172,Indian Institute of Technology Bombay (IITB),46.0,India,Mumbai,Asia,172
+172,2021,173,Technische Universität Dresden,45.9,Germany,Dresden,Europe,173
+173,2021,173,University of Bath,45.9,United Kingdom,Bath,Europe,173
+174,2021,175,Eberhard Karls Universität Tübingen,45.8,Germany,Tübingen,Europe,175
+175,2021,175,Albert-Ludwigs-Universitaet Freiburg,45.8,Germany,Freiburg im Breisgau,Europe,175
+176,2021,177,The Hebrew University of Jerusalem,45.7,Israel,Jerusalem,Asia,177
+177,2021,177,University College Dublin,45.7,Ireland,Dublin,Europe,177
+178,2021,177,University of Minnesota Twin Cities,45.7,United States,Minneapolis,North America,177
+179,2021,180,Universidad de Chile,45.6,Chile,Santiago,Latin America,180
+180,2021,181,Stockholm University,45.5,Sweden,Stockholm,Europe,181
+181,2021,181,University of Liverpool,45.5,United Kingdom,Liverpool,Europe,181
+182,2021,183,Universitat de Barcelona,45.4,Spain,Barcelona,Europe,183
+183,2021,184,University of Otago,45.3,New Zealand,Dunedin,Oceania,184
+184,2021,185,Indian Institute of Science,44.9,India,Bangalore,Asia,185
+185,2021,186,King Fahd University of Petroleum & Minerals,44.7,Saudi Arabia,Dhahran,Asia,186
+186,2021,187,Universiti Teknologi Malaysia ,44.2,Malaysia,Skudai,Asia,187
+187,2021,187,Vanderbilt University,44.2,United States,Nashville,North America,187
+188,2021,189,Université catholique de Louvain (UCLouvain),44.1,Belgium,Louvain-la-Neuve,Europe,189
+189,2021,189,Waseda University,44.1,Japan,Tokyo,Asia,189
+190,2021,191,Keio University,44.0,Japan,Tokyo,Asia,191
+191,2021,191,Technische Universität Wien,44.0,Austria,Vienna,Europe,191
+192,2021,193,Indian Institute of Technology Delhi (IITD),43.9,India,New Delhi,Asia,193
+193,2021,194,University of Bergen,43.4,Norway,Bergen,Europe,194
+194,2021,195,University of Göttingen,43.3,Germany,Göttingen,Europe,195
+195,2021,196,University of Wollongong,43.2,Australia,Wollongong,Oceania,196
+196,2021,197,Erasmus University Rotterdam ,43.1,Netherlands,Rotterdam,Europe,197
+197,2021,197,"The University of Newcastle, Australia (UON)",43.1,Australia,Callaghan,Oceania,197
+198,2021,197,University of Twente,43.1,Netherlands,Enschede,Europe,197
+199,2021,200,Universidad Autónoma de Madrid,42.8,Spain,Madrid,Europe,200
+200,2021,200,Vrije Universiteit Brussel (VUB),42.8,Belgium,Brussels,Europe,200
+201,2021,202,University of Gothenburg,42.7,Sweden,Gothenburg,Europe,202
+202,2021,203,Dartmouth College,42.6,United States,Hanover,North America,203
+203,2021,203,Western University,42.6,Canada,London,North America,203
+204,2021,205,University of Reading,42.3,United Kingdom,Reading,Europe,205
+205,2021,206,Complutense University of Madrid,41.9,Spain,Madrid,Europe,206
+206,2021,207,University of Aberdeen,41.8,United Kingdom,Aberdeen,Europe,207
+207,2021,208,Chulalongkorn University,41.6,Thailand,Bangkok,Asia,208
+208,2021,209,Queen's University Belfast,41.5,United Kingdom,,Europe,209
+209,2021,210,"University of California, Irvine",41.4,United States,Irvine,North America,210
+210,2021,211,Khalifa University,41.2,United Arab Emirates,Abu Dhabi,Asia,211
+211,2021,211,University of Notre Dame,41.2,United States,Notre Dame,North America,211
+212,2021,213,Universitat Autònoma de Barcelona,40.9,Spain,Barcelona,Europe,213
+213,2021,214,Macquarie University,40.8,Australia,Sydney,Oceania,214
+214,2021,214,Radboud University ,40.8,Netherlands,Nijmegen,Europe,214
+215,2021,216,Università di Padova,40.6,Italy,Padua,Europe,216
+216,2021,217,Curtin University,40.5,Australia,Perth,Oceania,217
+217,2021,217,Queensland University of Technology (QUT),40.5,Australia,Brisbane,Oceania,217
+218,2021,217,University of Virginia,40.5,United States,Charlottesville,North America,217
+219,2021,220,American University of Beirut (AUB),40.4,Lebanon,Beirut ,Asia,220
+220,2021,220,Arizona State University,40.4,United States,Phoenix,North America,220
+221,2021,220,University of Cape Town,40.4,South Africa,Cape Town,Africa,220
+222,2021,223,RMIT University,40.0,Australia,Melbourne,Oceania,223
+223,2021,223,Victoria University of Wellington,40.0,New Zealand,"Kelburn, Wellington",Oceania,223
+224,2021,225,Saint Petersburg State University,39.9,Russia,Saint Petersburg,Europe,225
+225,2021,226,Loughborough University,39.7,United Kingdom,Loughborough,Europe,226
+226,2021,227,Universidad de los Andes,39.6,Colombia,Bogotá,Latin America,227
+227,2021,228,Novosibirsk State University,39.4,Russia,Novosibirsk ,Europe,228
+228,2021,228,Universität Hamburg,39.4,Germany,Hamburg,Europe,228
+229,2021,230,Georgetown University,39.3,United States,Washington D.C.,North America,230
+230,2021,230,Tel Aviv University,39.3,Israel,Tel Aviv,Asia,230
+231,2021,230,University of Colorado Boulder,39.3,United States,Boulder,North America,230
+232,2021,233,Universidade Estadual de Campinas (Unicamp),39.2,Brazil,Campinas,Latin America,233
+233,2021,234,Maastricht University ,38.9,Netherlands,Maastricht,Europe,234
+234,2021,234,National Cheng Kung University (NCKU),38.9,Taiwan,Tainan City,Asia,234
+235,2021,236,Kyung Hee University,38.8,South Korea,,Asia,236
+236,2021,236,Vrije Universiteit Amsterdam,38.8,Netherlands,Amsterdam,Europe,236
+237,2021,238,National University of Ireland Galway,38.3,Ireland,Galway,Europe,238
+238,2021,238,University of Antwerp,38.3,Belgium,Antwerp,Europe,238
+239,2021,240,National Chiao Tung University,38.2,Taiwan,Hsinchu City,Asia,240
+240,2021,240,Rheinische Friedrich-Wilhelms-Universität Bonn,38.2,Germany,Bonn,Europe,240
+241,2021,242,Ecole des Ponts ParisTech,38.1,France,Paris,Europe,242
+242,2021,242,Sciences Po ,38.1,France,Dijon,Europe,242
+243,2021,242,University of Leicester,38.1,United Kingdom,Leicester,Europe,242
+244,2021,245,Qatar University,37.9,Qatar,Doha,Asia,245
+245,2021,246,Queen's University at Kingston,37.8,Canada,Kingston,North America,246
+246,2021,246,University of Calgary,37.8,Canada,Calgary,North America,246
+247,2021,246,University of Sussex,37.8,United Kingdom,Brighton,Europe,246
+248,2021,246,Wuhan University,37.8,China (Mainland),Wuhan,Asia,246
+249,2021,250,Tomsk State University,37.7,Russia,Tomsk,Europe,250
+250,2021,250,Universite libre de Bruxelles,37.7,Belgium,Brussels,Europe,250
+251,2021,252,Mahidol University,37.5,Thailand,Nakhon Pathom,Asia,252
+252,2021,252,University of Navarra,37.5,Spain,Pamplona,Europe,252
+253,2021,254,Gadjah Mada University,37.4,Indonesia,Yogyakarta,Asia,254
+254,2021,254,Universiti Brunei Darussalam (UBD),37.4,Brunei,Bandar Seri Begawan,Asia,254
+255,2021,256,Tongji University,37.2,China (Mainland),Shanghai,Asia,256
+256,2021,256,University of Illinois at Chicago (UIC),37.2,United States,Chicago,North America,256
+257,2021,258,Rutgers University–New Brunswick,37.0,United States,New Brunswick,North America,258
+258,2021,259,Universidad Nacional de Colombia,36.9,Colombia,Bogotá,Latin America,259
+259,2021,260,Charles University,36.7,Czech Republic,Prague,Europe,260
+260,2021,260,Harbin Institute of Technology,36.7,China (Mainland),Harbin,Asia,260
+261,2021,260,Tufts University,36.7,United States,Medford,North America,260
+262,2021,263,Sun Yat-sen University,36.4,China (Mainland),Guangzhou,Asia,263
+263,2021,264,Hong Kong Baptist University,36.3,Hong Kong SAR,Hong Kong,Asia,264
+264,2021,265,Universität Innsbruck,36.2,Austria,Innsbruck,Europe,265
+265,2021,265,University of Tsukuba,36.2,Japan,Tsukuba City,Asia,265
+266,2021,267,National Taiwan University of Science and Technology (Taiwan Tech),36.0,Taiwan,Taipei City,Asia,267
+267,2021,267,Technical University of Darmstadt,36.0,Germany,Darmstadt,Europe,267
+268,2021,267,University of Surrey,36.0,United Kingdom,Guildford,Europe,267
+269,2021,270,University of Canterbury | Te Whare Wānanga o Waitaha,35.9,New Zealand,Christchurch,Oceania,270
+270,2021,270,University of Massachusetts Amherst,35.9,United States,Amherst,North America,270
+271,2021,272,Massey University,35.8,New Zealand,Palmerston North,Oceania,272
+272,2021,273,USI - Università della Svizzera italiana,35.6,Switzerland,Lugano,Europe,273
+273,2021,273,The University of Arizona,35.6,United States,Tucson,North America,273
+274,2021,275,Deakin University,35.5,Australia,Geelong,Oceania,275
+275,2021,275,Indian Institute of Technology Madras (IITM),35.5,India,Chennai,Asia,275
+276,2021,275,Graz University of Technology,35.5,Austria,Graz,Europe,275
+277,2021,275,Université de Paris,35.5,France,Paris,Europe,275
+278,2021,279,Beijing Normal University ,35.4,China (Mainland),Beijing,Asia,279
+279,2021,279,University of Ottawa,35.4,Canada,Ottawa,North America,279
+280,2021,281,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),35.3,Russia,Dolgoprudny,Europe,281
+281,2021,282,Bauman Moscow State Technical University,35.2,Russia,Moscow,Europe,282
+282,2021,282,University of Cologne,35.2,Germany,Cologne,Europe,282
+283,2021,284,United Arab Emirates University,35.1,United Arab Emirates,Al Ain,Asia,284
+284,2021,285,University of Tartu,35.0,Estonia,Tartu,Europe,285
+285,2021,286,University College Cork,34.9,Ireland,Cork,Europe,286
+286,2021,287,King Saud University,34.8,Saudi Arabia,Riyadh,Asia,287
+287,2021,287,Universitat Pompeu Fabra (Barcelona),34.8,Spain,Barcelona,Europe,287
+288,2021,287,Université Paris 1 Panthéon-Sorbonne ,34.8,France,Paris,Europe,287
+289,2021,287,University of Turku,34.8,Finland,Turku,Europe,287
+290,2021,291,Dalhousie University,34.6,Canada,Halifax,North America,291
+291,2021,291,ENS Paris-Saclay,34.6,France,Cachan,Europe,291
+292,2021,291,Technion - Israel Institute of Technology,34.6,Israel,Haifa,Asia,291
+293,2021,291,University of Miami,34.6,United States,Miami,North America,291
+294,2021,295,Gwangju Institute of Science and Technology (GIST),34.5,South Korea,Gwangju,Asia,295
+295,2021,295,North Carolina State University,34.5,United States,Raleigh,North America,295
+296,2021,295,University of South Australia,34.5,Australia,Magill,Oceania,295
+297,2021,298,HSE University,34.4,Russia,Moscow,Europe,298
+298,2021,298,National Yang Ming University,34.4,Taiwan,Taipei City,Asia,298
+299,2021,300,University of Strathclyde,34.3,United Kingdom,Glasgow,Europe,300
+300,2021,301,Heriot-Watt University,34.2,United Kingdom,Edinburgh,Europe,301
+301,2021,301,University of Milan,34.2,Italy,Milan,Europe,301
+302,2021,303,Griffith University,34.1,Australia,Nathan,Oceania,303
+303,2021,303,Xi’an Jiaotong University,34.1,China (Mainland),Xi'an,Asia,303
+304,2021,305,Aalborg University,34.0,Denmark,Aalborg,Europe,305
+305,2021,305,Université Paris-Saclay,34.0,France,,Europe,305
+306,2021,305,Universitas Indonesia,34.0,Indonesia,Depok,Asia,305
+307,2021,307,Universität Mannheim,33.7,Germany,Mannheim,Europe,307
+308,2021,308,Politecnico di Torino,33.5,Italy,Turin,Europe,308
+309,2021,308,Royal Holloway University of London,33.5,United Kingdom,Egham,Europe,308
+310,2021,308,University of Tasmania,33.5,Australia,Hobart,Oceania,308
+311,2021,311,Universidad Carlos III de Madrid (UC3M),33.4,Spain,Madrid,Europe,311
+312,2021,311,Goethe-University Frankfurt am Main,33.4,Germany,Frankfurt,Europe,311
+313,2021,313,Bandung Institute of Technology (ITB),33.3,Indonesia,Bandung,Asia,313
+314,2021,314,Indian Institute of Technology Kharagpur (IIT-KGP),33.2,India,Kharagpur,Asia,314
+315,2021,314,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),33.2,Russia,Moscow,Europe,314
+316,2021,314,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),33.2,Spain,Barcelona,Europe,314
+317,2021,317,Belarusian State University,33.0,Belarus,Minsk,Europe,317
+318,2021,317,Friedrich-Alexander-Universität Erlangen-Nürnberg,33.0,Germany,Erlangen,Europe,317
+319,2021,319, University of Dundee,32.9,United Kingdom,Dundee,Europe,319
+320,2021,320,Indiana University Bloomington,32.6,United States,Bloomington,North America,320
+321,2021,321,Hiroshima University,32.3,Japan,Higashihiroshima City,Asia,321
+322,2021,321,University of Warsaw ,32.3,Poland,Warsaw,Europe,321
+323,2021,323,Simon Fraser University,32.1,Canada,Burnaby,North America,323
+324,2021,323,Southern University of Science and Technology,32.1,China (Mainland),,Asia,323
+325,2021,323,Universität Jena,32.1,Germany,Jena,Europe,323
+326,2021,327,IE University,32.0,Spain,Segovia,Europe,327
+327,2021,326,Jagiellonian University,31.9,Poland,Krakow,Europe,326
+328,2021,326,Pontificia Universidad Católica Argentina,31.9,Argentina,Buenos Aires,Latin America,326
+329,2021,326,RUDN University,31.9,Russia,Moscow,Europe,326
+330,2021,326,Universitat Politècnica de València,31.9,Spain,València,Europe,326
+331,2021,326,Virginia Polytechnic Institute and State University,31.9,United States,Blacksburg,North America,326
+332,2021,331,National Taiwan Normal University,31.8,Taiwan,Taipei City,Asia,331
+333,2021,331,Ural Federal University - UrFU,31.8,Russia,Ekaterinburg,Europe,331
+334,2021,333,Ewha Womans University,31.7,South Korea,Seoul,Asia,333
+335,2021,333,Umea University,31.7,Sweden,Umeå,Europe,333
+336,2021,333,Universität Stuttgart,31.7,Germany,Stuttgart,Europe,333
+337,2021,333,University of East Anglia (UEA),31.7,United Kingdom,Norwich,Europe,333
+338,2021,333,University of Hawaiʻi at Mānoa,31.7,United States,Honolulu,North America,333
+339,2021,333,University of Jyväskylä,31.7,Finland,Jyväskylä,Europe,333
+340,2021,333,University of Utah,31.7,United States,Salt Lake City,North America,333
+341,2021,341,Yeshiva University,31.6,United States,New York City,North America,341
+342,2021,342,Université Grenoble Alpes,31.5,France,Grenoble,Europe,342
+343,2021,342,"University of Chemistry and Technology, Prague",31.5,Czech Republic,Prague,Europe,342
+344,2021,344,"Birkbeck, University of London",31.4,United Kingdom,London,Europe,344
+345,2021,344,University Ulm,31.4,Germany,Ulm,Europe,344
+346,2021,346,SOAS University of London ,31.1,United Kingdom,London,Europe,346
+347,2021,346,University at Buffalo SUNY,31.1,United States,Buffalo,North America,346
+348,2021,348,American University of Sharjah,31.0,United Arab Emirates,Sharjah,Asia,348
+349,2021,348,MGIMO University,31.0,Russia,Moscow,Europe,348
+350,2021,350,"City, University of London",30.9,United Kingdom,London,Europe,350
+351,2021,350,Indian Institute of Technology Kanpur (IITK),30.9,India,Kanpur,Asia,350
+352,2021,350,Universiti Teknologi Brunei,30.9,Brunei,Bandar Seri Begawan,Asia,350
+353,2021,353,George Washington University,30.8,United States,Ashburn,North America,353
+354,2021,353,University of Southern Denmark (SDU),30.8,Denmark,Odense,Europe,353
+355,2021,355,National University of Sciences And Technology (NUST) Islamabad,30.5,Pakistan,Islamabad,Asia,355
+356,2021,356,Westfälische Wilhelms-Universität Münster ,30.3,Germany,Münster,Europe,356
+357,2021,357,L.N. Gumilyov Eurasian National University (ENU),30.2,Kazakhstan,Nur-Sultan,Asia,357
+358,2021,357,University of Lisbon ,30.2,Portugal,Lisbon ,Europe,357
+359,2021,357,University of Porto,30.2,Portugal,Porto,Europe,357
+360,2021,360,ITMO University,30.1,Russia,St. Petersburg,Europe,360
+361,2021,360,Norwegian University of Science And Technology,30.1,Norway,Trondheim,Europe,360
+362,2021,362,Johannes Kepler University Linz,30.0,Austria,Linz,Europe,362
+363,2021,362,Linköping University,30.0,Sweden,Linköping,Europe,362
+364,2021,362,Northeastern University,30.0,United States,Boston,North America,362
+365,2021,362,Tokyo Medical and Dental University (TMDU),30.0,Japan,Tokyo,Asia,362
+366,2021,367,University of Macau,29.9,Macau SAR,,Asia,367
+367,2021,368,Brunel University London,29.7,United Kingdom,,Europe,368
+368,2021,368,Tilburg University,29.7,Netherlands,Tilburg,Europe,368
+369,2021,370,Kazan (Volga region) Federal University,29.5,Russia,Kazan,Europe,370
+370,2021,370,University of Victoria (UVic),29.5,Canada,Victoria,North America,370
+371,2021,372,Swinburne University of Technology,29.4,Australia,Melbourne,Oceania,372
+372,2021,373,Pakistan Institute of Engineering and Applied Sciences (PIEAS),29.2,Pakistan,Islamabad,Asia,373
+373,2021,373,"Stony Brook University, State University of New York",29.2,United States,Stony Brook,North America,373
+374,2021,375,Sultan Qaboos University,29.1,Oman,Muscat,Asia,375
+375,2021,375,University of Waikato,29.1,New Zealand,Hamilton ,Oceania,375
+376,2021,377,Nankai University,29.0,China (Mainland),Tianjin,Asia,377
+377,2021,377,Universidad de Palermo (UP),29.0,Argentina,Buenos Aires,Latin America,377
+378,2021,379,Taylor's University,28.9,Malaysia,Subang Jaya,Asia,379
+379,2021,380,Universidade Federal do Rio de Janeiro,28.8,Brazil,Rio de Janeiro,Latin America,380
+380,2021,380,University of Kent,28.8,United Kingdom,Paris,Europe,380
+381,2021,380,Wake Forest University,28.8,United States,Winston-Salem,North America,380
+382,2021,383,Indian Institute of Technology Roorkee (IITR),28.7,India,Roorkee,Asia,383
+383,2021,383,Oxford Brookes University,28.7,United Kingdom,,Europe,383
+384,2021,383,University of Pisa,28.7,Italy,Pisa,Europe,383
+385,2021,383,University of Kansas,28.7,United States,Lawrence,North America,383
+386,2021,387,Lincoln University ,28.6,New Zealand,Lincoln,Oceania,387
+387,2021,387,Shanghai University,28.6,China (Mainland),Shanghai,Asia,387
+388,2021,387,Taipei Medical University (TMU),28.6,Taiwan,Taipei City,Asia,387
+389,2021,387,Tianjin University,28.6,China (Mainland),Nankai,Asia,387
+390,2021,391,UCSI University,28.5,Malaysia,,Asia,391
+391,2021,392,Beijing Institute of Technology,28.4,China (Mainland),Beijing,Asia,392
+392,2021,392,HUFS - Hankuk (Korea) University of Foreign Studies ,28.4,South Korea,Seoul,Asia,392
+393,2021,392,University of Naples - Federico II,28.4,Italy,Naples,Europe,392
+394,2021,392,Università Vita-Salute San Raffaele,28.4,Italy,Milan,Europe,392
+395,2021,396,Huazhong University of Science and Technology,28.2,China (Mainland),Wuhan,Asia,396
+396,2021,396,University of the Philippines,28.2,Philippines,Quezon City,Asia,396
+397,2021,398,La Trobe University,28.1,Australia,Melbourne,Oceania,398
+398,2021,398,Université de Strasbourg,28.1,France,Strasbourg,Europe,398
+399,2021,398,"University of Colorado, Denver ",28.1,United States,Denver,North America,398
+400,2021,401,Peter the Great St. Petersburg Polytechnic University,28.0,Russia,St. Petersburg,Europe,401
+401,2021,401,National Research Tomsk Polytechnic University,28.0,Russia,,Europe,401
+402,2021,403,Chung-Ang University (CAU),27.9,South Korea,Seoul,Asia,403
+403,2021,403,Johannes Gutenberg Universität Mainz,27.9,Germany,Mainz,Europe,403
+404,2021,403,Kobe University,27.9,Japan,Kobe City,Asia,403
+405,2021,403,University of Trento,27.9,Italy,Trento,Europe,403
+406,2021,403,University of Witwatersrand,27.9,South Africa,Johannesburg,Africa,403
+407,2021,408,University of Oulu,27.7,Finland,Oulu,Europe,408
+408,2021,409,Sharif University of Technology,27.6,"Iran, Islamic Republic of",Tehran,Asia,409
+409,2021,409,Tampere University,27.6,Finland,Tampere,Europe,409
+410,2021,411,The American University in Cairo,27.5,Egypt,Cairo,Africa,411
+411,2021,411,"Essex, University of",27.5,United Kingdom,Colchester,Europe,411
+412,2021,411,Washington State University,27.5,United States,Pullman,North America,411
+413,2021,414,Bond University,27.4,Australia,Gold Coast,Oceania,414
+414,2021,414,Tulane University,27.4,United States,New Orleans,North America,414
+415,2021,416,"Goldsmiths, University of London",27.2,United Kingdom,London,Europe,416
+416,2021,416,National Sun Yat-sen University,27.2,Taiwan,Kaohsiung City,Asia,416
+417,2021,416,"University of California, Santa Cruz",27.2,United States,Santa Cruz,North America,416
+418,2021,416,University of Tromsø The Arctic University of Norway,27.2,Norway,Tromsø,Europe,416
+419,2021,420,Université Laval,27.1,Canada,Québec,North America,420
+420,2021,420,Universidade Federal de São Paulo,27.1,Brazil,São Paulo,Latin America,420
+421,2021,420,University of Iowa,27.1,United States,Iowa City,North America,420
+422,2021,423,Flinders University,27.0,Australia,Adelaide,Oceania,423
+423,2021,423,Vilnius University ,27.0,Lithuania,Vilnius,Europe,423
+424,2021,425,University of Bordeaux,26.9,France,Talence,Europe,425
+425,2021,426,Illinois Institute of Technology,26.8,United States,Chicago,North America,426
+426,2021,426,Pontificia Universidad Javeriana,26.8,Colombia,Bogotá,Latin America,426
+427,2021,428,The National University of Science and Technology MISIS,26.6,Russia,Moscow,Europe,428
+428,2021,428,Universidade Nova de Lisboa,26.6,Portugal,Lisbon,Europe,428
+429,2021,428,University of St.Gallen (HSG),26.6,Switzerland,St. Gallen,Europe,428
+430,2021,431,University of Coimbra,26.5,Portugal,Coimbra,Europe,431
+431,2021,432,Czech Technical University in Prague,26.4,Czech Republic,Prague,Europe,432
+432,2021,432,Pontificia Universidad Católica del Perú,26.4,Peru,Lima,Latin America,432
+433,2021,432,University of Florence,26.4,Italy,Florence,Europe,432
+434,2021,432,"The University of Tennessee, Knoxville",26.4,United States,Knoxville,North America,432
+435,2021,432,Xiamen University,26.4,China (Mainland),Xiamen,Asia,432
+436,2021,437,Auckland University of Technology (AUT),26.2,New Zealand,Auckland,Oceania,437
+437,2021,437,Julius-Maximilians-Universität Würzburg,26.2,Germany,Würzburg,Europe,437
+438,2021,439,Dublin City University,26.0,Ireland,Dublin,Europe,439
+439,2021,439,Ruhr-Universität Bochum,26.0,Germany,Bochum,Europe,439
+440,2021,439,Universiti Teknologi PETRONAS (UTP),26.0,Malaysia,Seri Iskandar,Asia,439
+441,2021,439,University of Johannesburg,26.0,South Africa,Johannesburg,Africa,439
+442,2021,443,Colorado State University,25.9,United States,Fort Collins,North America,443
+443,2021,443,Universidad Austral,25.9,Argentina,Pilar,Latin America,443
+444,2021,443,Universität Konstanz,25.9,Germany,Konstanz,Europe,443
+445,2021,446,Ben-Gurion University of The Negev,25.8,Israel,Be'er Sheva,Asia,446
+446,2021,446,Brandeis University,25.8,United States,Waltham,North America,446
+447,2021,446,University of Science and Technology Beijing,25.8,China (Mainland),Beijing,Asia,446
+448,2021,449,Beihang University (former BUAA),25.7,China (Mainland),Beijing,Asia,449
+449,2021,449,"University of California, Riverside",25.7,United States,Riverside,North America,449
+450,2021,451,Universidad Politécnica de Madrid (UPM),25.6,Spain,Madrid,Europe,451
+451,2021,451,Universität des Saarlandes,25.6,Germany,Saarbrücken,Europe,451
+452,2021,451,Université de Liège,25.6,Belgium,Arlon,Europe,451
+453,2021,454,Boston College,25.5,United States,Newton,North America,454
+454,2021,454,Quaid-i-Azam University,25.5,Pakistan,Islamabad,Asia,454
+455,2021,456,Dongguk University ,25.4,South Korea,Seoul,Asia,456
+456,2021,456,Florida State University,25.4,United States,Tallahassee,North America,456
+457,2021,456,Hasselt University ,25.4,Belgium,Diepenbeek,Europe,456
+458,2021,456,Stellenbosch University,25.4,South Africa,Stellenbosch,Africa,456
+459,2021,456,The Catholic University of Korea ,25.4,South Korea,Gyeonggi,Asia,456
+460,2021,456,University of Canberra ,25.4,Australia,Bruce,Oceania,456
+461,2021,462,James Cook University,25.3,Australia,Townsville,Oceania,462
+462,2021,462,South China University of Technology,25.3,China (Mainland),Guangzhou,Asia,462
+463,2021,462,Universidad ORT Uruguay,25.3,Uruguay,Montevideo,Latin America,462
+464,2021,465,Koç University,25.2,Turkey,Istanbul,Asia,465
+465,2021,465,National Central University,25.2,Taiwan,Taoyuan City,Asia,465
+466,2021,465,Universidad de Belgrano,25.2,Argentina,Buenos Aires,Latin America,465
+467,2021,465,University of Saskatchewan,25.2,Canada,Saskatoon,North America,465
+468,2021,465,Yokohama City University,25.2,Japan,Yokohama City,Asia,465
+469,2021,470,Indian Institute of Technology Guwahati (IITG),25.1,India,Guwahati,Asia,470
+470,2021,470,Lappeenranta-Lahti University of Technology LUT,25.1,Finland,Lappeenranta ,Europe,470
+471,2021,470,Martin-Luther-Universität Halle-Wittenberg,25.1,Germany,Halle,Europe,470
+472,2021,470,Rensselaer Polytechnic Institute,25.1,United States,Troy,North America,470
+473,2021,474,Swansea University,25.0,United Kingdom,Swansea,Europe,474
+474,2021,474,Umm Al-Qura University ,25.0,Saudi Arabia,Makkah,Asia,474
+475,2021,474, Western Sydney University,25.0,Australia,Milperra,Oceania,474
+476,2021,477,Amirkabir University of Technology,24.8,"Iran, Islamic Republic of",Tehran,Asia,477
+477,2021,477,Concordia University,24.8,Canada,Montreal,North America,477
+478,2021,477,National Technical University of Athens,24.8,Greece,Athens,Europe,477
+479,2021,477,University of Cyprus (UCY),24.8,Cyprus,Nicosia,Europe,477
+480,2021,477,V. N. Karazin Kharkiv National University,24.8,Ukraine,Kharkiv,Europe,477
+481,2021,477,Wayne State University,24.8,United States,Detroit,North America,477
+482,2021,483,Universität  Leipzig,24.7,Germany,Leipzig,Europe,483
+483,2021,483,"University of Missouri, Columbia",24.7,United States,Columbia,North America,483
+484,2021,485,Aberystwyth University,24.6,United Kingdom,Aberystwyth,Europe,485
+485,2021,485,Shandong University,24.6,China (Mainland),Jinan,Asia,485
+486,2021,485,University of Stirling,24.6,United Kingdom,Stirling,Europe,485
+487,2021,488,Chiba University,24.5,Japan,Chiba City,Asia,488
+488,2021,488,National Taipei University of Technology,24.5,Taiwan,Taipei City,Asia,488
+489,2021,490,Auezov South Kazakhstan University (SKU),24.4,Kazakhstan,Shymkent,Asia,490
+490,2021,490,Sogang University,24.4,South Korea,Seoul,Asia,490
+491,2021,492,Universidad de Montevideo (UM),24.3,Uruguay,Montevideo,Latin America,492
+492,2021,493,Chang Gung University,24.2,Taiwan,Taoyuan City,Asia,493
+493,2021,493,Far Eastern Federal University,24.2,Russia,Vladivostok,Europe,493
+494,2021,493,Jilin University,24.2,China (Mainland),Changchun,Asia,493
+495,2021,493,Southeast University,24.2,China (Mainland),Nanjing,Asia,493
+496,2021,493,UNESP,24.2,Brazil,Sao Paulo,Latin America,493
+497,2021,498,Universidad de La Habana,24.1,Cuba,Havana,Latin America,498
+498,2021,499,Oregon State University,23.9,United States,Corvallis,North America,499
+499,2021,499,Universidad de Alcalá,23.9,Spain,Alcalá de Henares,Europe,499
+500,2021,499,University of Eastern Finland,23.9,Finland,Kuopio,Europe,499
+501,2021,501-510,Christian-Albrechts-University zu Kiel,0.0,Germany,Kiel,Europe,501
+502,2021,501-510,East China Normal University,0.0,China (Mainland),Shanghai,Asia,501
+503,2021,501-510,Hitotsubashi University,0.0,Japan,Kunitachi City,Asia,501
+504,2021,501-510,The University of Georgia,0.0,United States,Athens,North America,501
+505,2021,501-510,University of Granada,0.0,Spain,Granada,Europe,501
+506,2021,501-510,Universidad de Santiago de Chile (USACH),0.0,Chile,Santiago,Latin America,501
+507,2021,501-510,Universidad de Zaragoza,0.0,Spain,Zaragoza,Europe,501
+508,2021,501-510,University of Balamand,0.0,Lebanon,Beirut,Asia,501
+509,2021,501-510,University of Connecticut,0.0,United States,Storrs,North America,501
+510,2021,501-510,University of Delhi,0.0,India,New Delhi,Asia,501
+511,2021,501-510,University of Szeged,0.0,Hungary,Szeged,Europe,501
+512,2021,511-520,Aston University,0.0,United Kingdom,Birmingham,Europe,511
+513,2021,511-520,Singapore Management University,0.0,Singapore,Singapore,Asia,511
+514,2021,511-520,Università Cattolica del Sacro Cuore,0.0,Italy,Milan,Europe,511
+515,2021,511-520,"University of Rome ""Tor Vergata""",0.0,Italy,Rome,Europe,511
+516,2021,511-520,Aix-Marseille University,0.0,France,Marseille,Europe,511
+517,2021,511-520,Université de Montpellier,0.0,France,Montpellier,Europe,511
+518,2021,511-520,University of Klagenfurt,0.0,Austria,Klagenfurt,Europe,511
+519,2021,511-520,University of Limerick,0.0,Ireland,Limerick,Europe,511
+520,2021,511-520,Warsaw University of Technology,0.0,Poland,Warsaw,Europe,511
+521,2021,521-530,Airlangga University,0.0,Indonesia,Surabaya,Asia,521
+522,2021,521-530,Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM),0.0,Saudi Arabia,Dammam,Asia,521
+523,2021,521-530,National Research Saratov State University,0.0,Russia,Saratov,Europe,521
+524,2021,521-530,Sabanci University,0.0,Turkey,Istanbul,Asia,521
+525,2021,521-530,University of Turin,0.0,Italy,Turin,Europe,521
+526,2021,521-530,University of Bayreuth,0.0,Germany,Bayreuth,Europe,521
+527,2021,521-530,University of Debrecen,0.0,Hungary,Debrecen,Europe,521
+528,2021,521-530,University of Milano-Bicocca ,0.0,Italy,Milan,Europe,521
+529,2021,521-530,University of Ulsan ,0.0,South Korea,Ulsan,Asia,521
+530,2021,531-540,Bogor Agricultural University,0.0,Indonesia,Bogor,Asia,531
+531,2021,531-540,Inha University,0.0,South Korea,Incheon,Asia,531
+532,2021,531-540,Justus-Liebig-University Giessen,0.0,Germany,Giessen,Europe,531
+533,2021,531-540,Masaryk University,0.0,Czech Republic,Brno,Europe,531
+534,2021,531-540,Nagasaki University,0.0,Japan,Nagasaki City,Asia,531
+535,2021,531-540,Northwestern Polytechnical University,0.0,China (Mainland),Xi'an,Asia,531
+536,2021,531-540,Sichuan University,0.0,China (Mainland),Chengdu,Asia,531
+537,2021,531-540,"Universidad Central ""Marta Abreu"" de Las Villas",0.0,Cuba,Santa Clara,Latin America,531
+538,2021,531-540,Universiti Utara Malaysia (UUM),0.0,Malaysia,Sintok,Asia,531
+539,2021,531-540,University of Texas Dallas,0.0,United States,Richardson,North America,531
+540,2021,531-540,York University,0.0,Canada,Toronto,North America,531
+541,2021,541-550,Coventry University,0.0,United Kingdom,Coventry,Europe,541
+542,2021,541-550,Institut National des Sciences Appliquées de Lyon (INSA),0.0,France,Lyon,Europe,541
+543,2021,541-550,Iowa State University,0.0,United States,Ames,North America,541
+544,2021,541-550,Niigata University,0.0,Japan,Niigata City,Asia,541
+545,2021,541-550,Osaka City University,0.0,Japan,Osaka City,Asia,541
+546,2021,541-550,Satbayev University,0.0,Kazakhstan,Almaty,Asia,541
+547,2021,541-550,Universität Bremen,0.0,Germany,Bremen,Europe,541
+548,2021,541-550,University Paris 2 Panthéon-Assas,0.0,France,,Europe,541
+549,2021,541-550,Saint Joseph University of Beirut (USJ) ,0.0,Lebanon,Beirut,Asia,541
+550,2021,541-550,University of Delaware,0.0,United States,Newark,North America,541
+551,2021,551-560,Ajou University ,0.0,South Korea,Suwon,Asia,551
+552,2021,551-560,Bar-Ilan University,0.0,Israel,Ramat Gan,Asia,551
+553,2021,551-560,Bilkent University,0.0,Turkey,Ankara,Asia,551
+554,2021,551-560,Hallym University ,0.0,South Korea,Chuncheon,Asia,551
+555,2021,551-560,Konkuk University ,0.0,South Korea,Seoul,Asia,551
+556,2021,551-560,Lebanese American University,0.0,Lebanon,Byblos,Asia,551
+557,2021,551-560,Lehigh University,0.0,United States,Bethlehem,North America,551
+558,2021,551-560,Management and Science University,0.0,Malaysia,Shah Alam,Asia,551
+559,2021,551-560,Technische Universität Braunschweig,0.0,Germany,Braunschweig,Europe,551
+560,2021,551-560,Université Paul Sabatier Toulouse III,0.0,France,Toulouse,Europe,551
+561,2021,551-560,Victoria University ,0.0,Australia,Melbourne,Oceania,551
+562,2021,561-570,Cairo University,0.0,Egypt,Giza,Africa,561
+563,2021,561-570,Kumamoto University,0.0,Japan,Kumamoto City,Asia,561
+564,2021,561-570,Kyungpook National University,0.0,South Korea,Daegu,Asia,561
+565,2021,561-570,The New School,0.0,United States,New York,North America,561
+566,2021,561-570,Thammasat University,0.0,Thailand,Bangkok,Asia,561
+567,2021,561-570,Universidad Externado de Colombia ,0.0,Colombia,Bogotá,Latin America,561
+568,2021,561-570,University of Nebraska - Lincoln,0.0,United States,Lincoln,North America,561
+569,2021,561-570,University of Pretoria,0.0,South Africa,Pretoria,Africa,561
+570,2021,571-580,Abo Akademi University,0.0,Finland,Turku,Europe,571
+571,2021,571-580,Altai State University,0.0,Russia,Barnaul,Europe,571
+572,2021,571-580,Aristotle University of Thessaloniki,0.0,Greece,Thessaloniki,Europe,571
+573,2021,571-580,China University of Geosciences,0.0,China (Mainland),Wuhan,Asia,571
+574,2021,571-580,"Lingnan University, Hong Kong",0.0,Hong Kong SAR,Hong Kong,Asia,571
+575,2021,571-580,Murdoch University,0.0,Australia,Murdoch,Oceania,571
+576,2021,571-580,Okayama University,0.0,Japan,Okayama City,Asia,571
+577,2021,571-580,Universidad de Costa Rica,0.0,Costa Rica,San Jose,Latin America,571
+578,2021,571-580,Universidad Panamericana (UP),0.0,Mexico,Mexico City,Latin America,571
+579,2021,571-580,University of Guelph,0.0,Canada,Guelph,North America,571
+580,2021,571-580,University of South Carolina,0.0,United States,Columbia,North America,571
+581,2021,581-590,Clark University,0.0,United States,Worcester,North America,581
+582,2021,581-590,Karl-Franzens-Universitaet Graz,0.0,Austria,Graz,Europe,581
+583,2021,581-590,"Kingston University, London",0.0,United Kingdom,Kingston upon Thames,Europe,581
+584,2021,581-590,National Chengchi University,0.0,Taiwan,Taipei City,Asia,581
+585,2021,581-590,Pusan National University,0.0,South Korea,Busan,Asia,581
+586,2021,581-590,Renmin (People's) University of China,0.0,China (Mainland),Beijing,Asia,581
+587,2021,581-590,Universidad de Sevilla,0.0,Spain,Seville,Europe,581
+588,2021,581-590,University of Aveiro,0.0,Portugal,Aveiro,Europe,581
+589,2021,581-590,University of South Florida,0.0,United States,Tampa,North America,581
+590,2021,591-600,Central Queensland University (CQUniversity Australia),0.0,Australia,Norman Gardens,Oceania,591
+591,2021,591-600,Dalian University of Technology,0.0,China (Mainland),Dalian,Asia,591
+592,2021,591-600,Jeonbuk National University,0.0,South Korea,Jeonju,Asia,591
+593,2021,591-600,Kanazawa University,0.0,Japan,Kanazawa,Asia,591
+594,2021,591-600,Kazakh National Agrarian University KazNAU,0.0,Kazakhstan,Almaty,Asia,591
+595,2021,591-600,Palacký University Olomouc,0.0,Czech Republic,,Europe,591
+596,2021,591-600,Samara National Research University (Samara University),0.0,Russia,Samara,Europe,591
+597,2021,591-600,Southern Federal University,0.0,Russia,Rostov-on-Don,Europe,591
+598,2021,591-600,Universitat de Valencia,0.0,Spain,València,Europe,591
+599,2021,591-600,University of Minho,0.0,Portugal,Braga,Europe,591
+600,2021,591-600,University of Tehran,0.0,"Iran, Islamic Republic of",Tehran,Asia,591
+601,2021,601-650,American University in Dubai,0.0,United Arab Emirates,Dubai,Asia,601
+602,2021,601-650,Ateneo de Manila University,0.0,Philippines,Quezon City,Asia,601
+603,2021,601-650,Bangor University,0.0,United Kingdom,,Europe,601
+604,2021,601-650,Carleton University,0.0,Canada,Ottawa,North America,601
+605,2021,601-650,Chiang Mai University,0.0,Thailand,Chiang Mai,Asia,601
+606,2021,601-650,Drexel University,0.0,United States,Philadelphia,North America,601
+607,2021,601-650,East China University of Science and Technology,0.0,China (Mainland),Shanghai,Asia,601
+608,2021,601-650,Eötvös Loránd University,0.0,Hungary,Budapest,Europe,601
+609,2021,601-650,Gifu University,0.0,Japan,Gifu City,Asia,601
+610,2021,601-650,Holy Spirit University of Kaslik ,0.0,Lebanon,Jounieh,Asia,601
+611,2021,601-650,Hunan University ,0.0,China (Mainland),Changsha,Asia,601
+612,2021,601-650,Indian Institute of Technology Hyderabad,0.0,India,Sangareddy,Asia,601
+613,2021,601-650,Instituto Tecnológico de Buenos Aires (ITBA),0.0,Argentina,Buenos Aires,Latin America,601
+614,2021,601-650,International Islamic University Malaysia (IIUM),0.0,Malaysia,Kuala Lumpur,Asia,601
+615,2021,601-650,Iran University of Science and Technology,0.0,"Iran, Islamic Republic of",Tehran,Asia,601
+616,2021,601-650,Ivane Javakhishvili Tbilisi State University,0.0,Georgia,,Asia,601
+617,2021,601-650,Jinan University (China),0.0,China (Mainland),Guangzhou,Asia,601
+618,2021,601-650,Abai Kazakh National Pedagogical University,0.0,Kazakhstan,Almaty,Asia,601
+619,2021,601-650,King Khalid University,0.0,Saudi Arabia,Abha,Asia,601
+620,2021,601-650,Free University of Bozen-Bolzano,0.0,Italy,Bolzano,Europe,601
+621,2021,601-650,Lobachevsky University,0.0,Russia,Nizhny Novgorod,Europe,601
+622,2021,601-650,Michigan Technological University,0.0,United States,Houghton,North America,601
+623,2021,601-650,Middle East Technical University,0.0,Turkey,Ankara,Asia,601
+624,2021,601-650,Missouri University of Science and Technology,0.0,United States,Rolla,North America,601
+625,2021,601-650,National Chung Hsing University,0.0,Taiwan,Taichung City,Asia,601
+626,2021,601-650,Shenzhen University,0.0,China (Mainland),Shenzhen,Asia,601
+627,2021,601-650,Smith College,0.0,United States,Northampton,North America,601
+628,2021,601-650,"Sofia University ""St. Kliment Ohridski""",0.0,Bulgaria,Sofia,Europe,601
+629,2021,601-650,Syracuse University,0.0,United States,Syracuse,North America,601
+630,2021,601-650,Taras Shevchenko National University of Kyiv,0.0,Ukraine,Kyiv,Europe,601
+631,2021,601-650,Tokushima University,0.0,Japan,Tokushima City,Asia,601
+632,2021,601-650,Tokyo University of Agriculture and Technology ,0.0,Japan,Tokyo,Asia,601
+633,2021,601-650,Ulster University,0.0,United Kingdom,Coleraine,Europe,601
+634,2021,601-650,Universidad de Concepción,0.0,Chile,Concepción,Latin America,601
+635,2021,601-650,University of Salamanca,0.0,Spain,Salamanca,Europe,601
+636,2021,601-650,Università degli Studi di Pavia,0.0,Italy,Pavia,Europe,601
+637,2021,601-650,Universitat Ramon Llull,0.0,Spain,Barcelona,Europe,601
+638,2021,601-650,Universität Regensburg,0.0,Germany,Regensburg,Europe,601
+639,2021,601-650,Université de Fribourg,0.0,Switzerland,Fribourg,Europe,601
+640,2021,601-650,Université du Québec,0.0,Canada,Québec,North America,601
+641,2021,601-650,Université Côte d'Azur,0.0,France,,Europe,601
+642,2021,601-650,University of Bradford,0.0,United Kingdom,Bradford,Europe,601
+643,2021,601-650,University of Cincinnati,0.0,United States,Cincinnati,North America,601
+644,2021,601-650,University of Hull,0.0,United Kingdom,Hull,Europe,601
+645,2021,601-650,University of Jordan,0.0,Jordan,Amman,Asia,601
+646,2021,601-650,University of Kentucky,0.0,United States,Lexington,North America,601
+647,2021,601-650,University of Ljubljana,0.0,Slovenia,Ljubljana,Europe,601
+648,2021,601-650,University of Manitoba,0.0,Canada,Winnipeg,North America,601
+649,2021,601-650,University of New Mexico,0.0,United States,Albuquerque,North America,601
+650,2021,601-650,University of Oregon,0.0,United States,Eugene,North America,601
+651,2021,601-650,University of Portsmouth,0.0,United Kingdom,Portsmouth,Europe,601
+652,2021,601-650,University of Sharjah,0.0,United Arab Emirates,,Asia,601
+653,2021,601-650,University of Vermont,0.0,United States,Burlington,North America,601
+654,2021,651-700,American University,0.0,United States,Washington D.C.,North America,651
+655,2021,651-700,Applied Science University - Bahrain,0.0,Bahrain,Al-Ekir,Asia,651
+656,2021,651-700,Beijing University of Technology,0.0,China (Mainland),Beijing,Asia,651
+657,2021,651-700,Bogaziçi Üniversitesi,0.0,Turkey,Istanbul,Asia,651
+658,2021,651-700,Brno University of Technology,0.0,Czech Republic,Brno,Europe,651
+659,2021,651-700,Central South University,0.0,China (Mainland),,Asia,651
+660,2021,651-700,City University of New York,0.0,United States,New York City,North America,651
+661,2021,651-700,Edith Cowan University ,0.0,Australia,Joondalup,Oceania,651
+662,2021,651-700,Howard University,0.0,United States,Washington D.C.,North America,651
+663,2021,651-700,Jadavpur University,0.0,India,Kolkata,Asia,651
+664,2021,651-700,Jordan University of Science & Technology,0.0,Jordan,Irbid,Asia,651
+665,2021,651-700,Kagoshima University,0.0,Japan,Kagoshima City,Asia,651
+666,2021,651-700,Lahore University of Management Sciences (LUMS),0.0,Pakistan,Lahore,Asia,651
+667,2021,651-700,Leibniz University Hannover,0.0,Germany,Hanover,Europe,651
+668,2021,651-700,National and Kapodistrian University of Athens,0.0,Greece,Athens,Europe,651
+669,2021,651-700,"National Technical University  ""Kharkiv Polytechnic Institute""",0.0,Ukraine,Kharkiv,Europe,651
+670,2021,651-700,Northumbria University at Newcastle,0.0,United Kingdom,Newcastle upon Tyne,Europe,651
+671,2021,651-700,O.P. Jindal Global University,0.0,India,Sonipat,Asia,651
+672,2021,651-700,Osaka Prefecture University ,0.0,Japan,Osaka City,Asia,651
+673,2021,651-700,Pavol Jozef Šafárik University in Košice,0.0,Slovakia,,Europe,651
+674,2021,651-700,Philipps-Universität Marburg ,0.0,Germany,Marburg,Europe,651
+675,2021,651-700,Pontifícia Universidade Católica do Rio de Janeiro,0.0,Brazil,Rio de Janeiro,Latin America,651
+676,2021,651-700,Savitribai Phule Pune University,0.0,India,Pune,Asia,651
+677,2021,651-700,Sejong University ,0.0,South Korea,Seoul,Asia,651
+678,2021,651-700,Soochow University,0.0,China (Mainland),Suzhou,Asia,651
+679,2021,651-700,Tallinn University of Technology (TalTech),0.0,Estonia,Tallinn,Europe,651
+680,2021,651-700,Tokyo Metropolitan University,0.0,Japan,Tokyo,Asia,651
+681,2021,651-700,Universidad Anáhuac México,0.0,Mexico,Huixquilucan,Latin America,651
+682,2021,651-700,Universidad de Antioquia,0.0,Colombia,Medellin,Latin America,651
+683,2021,651-700,Universidad ICESI,0.0,Colombia,Cali,Latin America,651
+684,2021,651-700,Universidad Nacional de La Plata (UNLP),0.0,Argentina,La Plata,Latin America,651
+685,2021,651-700,Universidad Pontificia Bolivariana ,0.0,Colombia,Medellín,Latin America,651
+686,2021,651-700,Universidad Pontificia Comillas,0.0,Spain,Madrid,Europe,651
+687,2021,651-700,Universidad Torcuato Di Tella,0.0,Argentina,Buenos Aires,Latin America,651
+688,2021,651-700,Universidade Federal de Minas Gerais      ,0.0,Brazil,Belo Horizonte,Latin America,651
+689,2021,651-700,University of Genoa,0.0,Italy,Genoa,Europe,651
+690,2021,651-700,University of Siena,0.0,Italy,Siena,Europe,651
+691,2021,651-700,University of Hohenheim,0.0,Germany,Stuttgart,Europe,651
+692,2021,651-700,Universiti Teknologi MARA - UiTM,0.0,Malaysia,Shah Alam,Asia,651
+693,2021,651-700,University of Denver,0.0,United States,Denver,North America,651
+694,2021,651-700,University of Hyderabad,0.0,India,Hyderabad,Asia,651
+695,2021,651-700,University of Massachusetts Boston,0.0,United States,Boston,North America,651
+696,2021,651-700,University of Mons ,0.0,Belgium,Mons,Europe,651
+697,2021,651-700,University of Oklahoma,0.0,United States,Norman,North America,651
+698,2021,651-700,University of Pecs,0.0,Hungary,Pécs,Europe,651
+699,2021,651-700,University of Plymouth,0.0,United Kingdom,Plymouth,Europe,651
+700,2021,651-700,University of Westminster,0.0,United Kingdom,London,Europe,651
+701,2021,651-700,Vilnius Gediminas Technical University,0.0,Lithuania,Vilnius ,Europe,651
+702,2021,651-700,Virginia Commonwealth University,0.0,United States,Richmond,North America,651
+703,2021,651-700,College of William and Mary,0.0,United States,Williamsburg,North America,651
+704,2021,701-750,Abu Dhabi University,0.0,United Arab Emirates,Abu Dhabi,Asia,701
+705,2021,701-750,Ajman University,0.0,United Arab Emirates,Ajman,Asia,701
+706,2021,701-750,Charles Darwin University ,0.0,Australia,Casuarina,Oceania,701
+707,2021,701-750,China Agricultural University ,0.0,China (Mainland),Beijing,Asia,701
+708,2021,701-750,Chonnam National University,0.0,South Korea,Gwangju,Asia,701
+709,2021,701-750,Comenius University in Bratislava,0.0,Slovakia,Bratislava,Europe,701
+710,2021,701-750,Gunma University,0.0,Japan,Maebashi,Asia,701
+711,2021,701-750,Instituto Politécnico Nacional (IPN),0.0,Mexico,Ciudad de México,Latin America,701
+712,2021,701-750,Instituto Tecnológico Autónomo de México (ITAM),0.0,Mexico,Mexico City,Latin America,701
+713,2021,701-750,Kansas State University ,0.0,United States,Manhattan,North America,701
+714,2021,701-750,Kaohsiung Medical University,0.0,Taiwan,Kaohsiung City,Asia,701
+715,2021,701-750,Keele University ,0.0,United Kingdom,Keele,Europe,701
+716,2021,701-750,Lebanese University,0.0,Lebanon,Beirut,Asia,701
+717,2021,701-750,Louisiana State University,0.0,United States,Baton Rouge,North America,701
+718,2021,701-750,Macau University of Science and Technology,0.0,Macau SAR,,Asia,701
+719,2021,701-750,Maynooth University,0.0,Ireland,Maynooth,Europe,701
+720,2021,701-750,Memorial University of Newfoundland,0.0,Canada,St. John's,North America,701
+721,2021,701-750,Mendel University in Brno,0.0,Czech Republic,Brno,Europe,701
+722,2021,701-750,Middlesex University,0.0,United Kingdom,London,Europe,701
+723,2021,701-750,Nanjing University of Science and Technology,0.0,China (Mainland),Nanjing,Asia,701
+724,2021,701-750,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",0.0,Ukraine,Kyiv,Europe,701
+725,2021,701-750,Notre Dame University-Louaize NDU,0.0,Lebanon,Koura,Asia,701
+726,2021,701-750,Riga Technical University,0.0,Latvia,Riga,Europe,701
+727,2021,701-750,Saint Petersburg Electrotechnical University ETU-LETI,0.0,Russia,St. Petersburg,Europe,701
+728,2021,701-750,Southern Methodist University,0.0,United States,Dallas,North America,701
+729,2021,701-750,Stevens Institute of Technology,0.0,United States,Hoboken,North America,701
+730,2021,701-750,Sumy State University,0.0,Ukraine,Sumy,Europe,701
+731,2021,701-750,Sunway University,0.0,Malaysia,Petaling Jaya,Asia,701
+732,2021,701-750,Temple University,0.0,United States,Philadelphia,North America,701
+733,2021,701-750,Universidad Adolfo Ibáñez,0.0,Chile,Santiago,Latin America,701
+734,2021,701-750,Universidad de San Andrés - UdeSA,0.0,Argentina,Buenos Aires,Latin America,701
+735,2021,701-750,Universidad Iberoamericana IBERO,0.0,Mexico,Mexico City,Latin America,701
+736,2021,701-750,Universidad Peruana Cayetano Heredia (UPCH),0.0,Peru,San Martin,Latin America,701
+737,2021,701-750,Universidade de Santiago de Compostela,0.0,Spain,Santiago de Compostela,Europe,701
+738,2021,701-750,Universidade Federal do Rio Grande Do Sul ,0.0,Brazil,Porto Alegre,Latin America,701
+739,2021,701-750,University of Trieste,0.0,Italy,Trieste,Europe,701
+740,2021,701-750,Universität Rostock,0.0,Germany,Rostock,Europe,701
+741,2021,701-750,Université Claude Bernard Lyon 1,0.0,France,Villeurbanne,Europe,701
+742,2021,701-750,Université de Sherbrooke,0.0,Canada,Sherbrooke,North America,701
+743,2021,701-750,Universiti Tenaga Nasional (UNITEN),0.0,Malaysia,Kajang,Asia,701
+744,2021,701-750,University of Central Florida,0.0,United States,Orlando,North America,701
+745,2021,701-750,University of Electronic Science and Technology of China,0.0,China (Mainland),Chengdu,Asia,701
+746,2021,701-750,University of Greenwich,0.0,United Kingdom,,Europe,701
+747,2021,701-750,University of Haifa,0.0,Israel,Haifa,Asia,701
+748,2021,701-750,University of Houston,0.0,United States,Houston,North America,701
+749,2021,701-750,University of Huddersfield,0.0,United Kingdom,Huddersfield,Europe,701
+750,2021,701-750,"University of Maryland, Baltimore County",0.0,United States,Baltimore,North America,701
+751,2021,701-750,University of Southern Queensland ,0.0,Australia,Toowoomba,Oceania,701
+752,2021,701-750,Worcester Polytechnic Institute,0.0,United States,Worcester,North America,701
+753,2021,701-750,Zayed University,0.0,United Arab Emirates,Dubai,Asia,701
+754,2021,751-800,Beijing Jiaotong University,0.0,China (Mainland),Beijing,Asia,751
+755,2021,751-800,Bournemouth University,0.0,United Kingdom,Poole,Europe,751
+756,2021,751-800,Chongqing University,0.0,China (Mainland),Chongqing,Asia,751
+757,2021,751-800,Chungnam National University,0.0,South Korea,Daejeon,Asia,751
+758,2021,751-800,Clarkson University,0.0,United States,Potsdam,North America,751
+759,2021,751-800,Dankook University ,0.0,South Korea,Seoul,Asia,751
+760,2021,751-800,Florida International University,0.0,United States,Miami,North America,751
+761,2021,751-800,Georgia State University,0.0,United States,Atlanta,North America,751
+762,2021,751-800,Indiana University–Purdue University Indianapolis,0.0,United States,Indianapolis,North America,751
+763,2021,751-800,Istanbul Technical University,0.0,Turkey,Maslak-Istanbul,Asia,751
+764,2021,751-800,Jamia Millia Islamia,0.0,India,,Asia,751
+765,2021,751-800,Kazakh-British Technical University,0.0,Kazakhstan,Almaty,Asia,751
+766,2021,751-800,NJSC KIMEP University,0.0,Kazakhstan,Almaty,Asia,751
+767,2021,751-800,London South Bank University,0.0,United Kingdom,London,Europe,751
+768,2021,751-800,"Manipal Academy of Higher Education, Manipal, Karnataka, India",0.0,India,Manipal,Asia,751
+769,2021,751-800,New Jersey Institute of Technology (NJIT),0.0,United States,Newark,North America,751
+770,2021,751-800,Northwest University (China),0.0,China (Mainland),Xi'an,Asia,751
+771,2021,751-800,Nottingham Trent University,0.0,United Kingdom,Nottingham,Europe,751
+772,2021,751-800,Oklahoma State University ,0.0,United States,Stillwater,North America,751
+773,2021,751-800,Paris Lodron University of Salzburg,0.0,Austria,Salzburg ,Europe,751
+774,2021,751-800,Plekhanov Russian University of Economics,0.0,Russia,Moscow,Europe,751
+775,2021,751-800,Politecnico di Bari,0.0,Italy,Bari,Europe,751
+776,2021,751-800,Prince Mohammad Bin Fahd university,0.0,Saudi Arabia,,Asia,751
+777,2021,751-800,Universitat Rovira i Virgili,0.0,Spain,Tarragona,Europe,751
+778,2021,751-800,Rutgers University–Newark,0.0,United States,Newark,North America,751
+779,2021,751-800,Institut Teknologi Sepuluh Nopember (ITS Surabaya),0.0,Indonesia,Surabaya,Asia,751
+780,2021,751-800,Southern Cross University ,0.0,Australia,Lismore,Oceania,751
+781,2021,751-800,Technical University of Liberec,0.0,Czech Republic,Liberec,Europe,751
+782,2021,751-800,Tokyo University of Science,0.0,Japan,Kagurazaka,Asia,751
+783,2021,751-800,Universidad Central de Venezuela,0.0,Venezuela,Caracas,Latin America,751
+784,2021,751-800,Universidad de Guadalajara (UDG),0.0,Mexico,Guadalajara,Latin America,751
+785,2021,751-800,Universidad de La Sabana,0.0,Colombia,Bogotá,Latin America,751
+786,2021,751-800,Universidad San Francisco de Quito (USFQ),0.0,Ecuador,Quito,Latin America,751
+787,2021,751-800,University of the Basque Country,0.0,Spain,Leioa,Europe,751
+788,2021,751-800,Universidad del Rosario,0.0,Colombia,Bogotá,Latin America,751
+789,2021,751-800,Ca' Foscari University of Venice ,0.0,Italy,Venice,Europe,751
+790,2021,751-800,University of Modena and Reggio Emilia,0.0,Italy,Modena,Europe,751
+791,2021,751-800,Università degli Studi di Perugia,0.0,Italy,Perugia,Europe,751
+792,2021,751-800,Universität Duisburg-Essen,0.0,Germany,Duisburg,Europe,751
+793,2021,751-800,University Duesseldorf,0.0,Germany,Düsseldorf,Europe,751
+794,2021,751-800,Université de Lille,0.0,France,,Europe,751
+795,2021,751-800,Universiti Malaysia Pahang,0.0,Malaysia,Kuantan,Asia,751
+796,2021,751-800,University at Albany SUNY,0.0,United States,Albany,North America,751
+797,2021,751-800,University of Brescia,0.0,Italy,Brescia,Europe,751
+798,2021,751-800,University of Patras,0.0,Greece,Patras,Europe,751
+799,2021,751-800,University of Seoul ,0.0,South Korea,Seoul,Asia,751
+800,2021,751-800,University of Tulsa,0.0,United States,Tulsa,North America,751
+801,2021,751-800,University of Windsor,0.0,Canada,Windsor,North America,751
+802,2021,801-1000,"Adam Mickiewicz University, Poznań",0.0,Poland,Poznań,Europe,801
+803,2021,801-1000,American University of the Middle East,0.0,Kuwait,Egaila,Asia,801
+804,2021,801-1000,AGH University of Science and Technology,0.0,Poland,Krakow,Europe,801
+805,2021,801-1000,Ain Shams University ,0.0,Egypt,Cairo,Africa,801
+806,2021,801-1000,Alexandria University ,0.0,Egypt,Alexandria,Africa,801
+807,2021,801-1000,Aligarh Muslim University,0.0,India,Aligarh,Asia,801
+808,2021,801-1000,Amrita Vishwa Vidyapeetham,0.0,India,Amritapuri,Asia,801
+809,2021,801-1000,Ankara Üniversitesi,0.0,Turkey,Ankara,Asia,801
+810,2021,801-1000,Anna University,0.0,India,Chennai,Asia,801
+811,2021,801-1000,Athens University of Economics and Business,0.0,Greece,Athens,Europe,801
+812,2021,801-1000,Auburn University,0.0,United States,Auburn,North America,801
+813,2021,801-1000,Australian Catholic University,0.0,Australia,Melbourne,Oceania,801
+814,2021,801-1000,Babes-Bolyai University,0.0,Romania,Cluj-Napoca,Europe,801
+815,2021,801-1000,Banaras Hindu University,0.0,India,Varanasi,Asia,801
+816,2021,801-1000,Bangladesh University of Engineering and Technology,0.0,Bangladesh,Dhaka,Asia,801
+817,2021,801-1000,Baylor University,0.0,United States,Waco,North America,801
+818,2021,801-1000,Beijing Foreign Studies University,0.0,China (Mainland),Beijing,Asia,801
+819,2021,801-1000,Beirut Arab University ,0.0,Lebanon,Beirut,Asia,801
+820,2021,801-1000,Belarusian National Technical University (BNTU),0.0,Belarus,Minsk,Europe,801
+821,2021,801-1000,Bina Nusantara University (BINUS),0.0,Indonesia,Jakarta,Asia,801
+822,2021,801-1000,Binghamton University SUNY,0.0,United States,Binghamton,North America,801
+823,2021,801-1000,Birmingham City University ,0.0,United Kingdom,Birmingham,Europe,801
+824,2021,801-1000,Budapest University of Technology and Economics,0.0,Hungary,Budapest,Europe,801
+825,2021,801-1000,Charles Sturt University ,0.0,Australia,Thurgoona,Oceania,801
+826,2021,801-1000,Clemson University,0.0,United States,Clemson,North America,801
+827,2021,801-1000,COMSATS University Islamabad,0.0,Pakistan,Islamabad,Asia,801
+828,2021,801-1000,Corvinus University of Budapest,0.0,Hungary,Budapest,Europe,801
+829,2021,801-1000,Cracow University of Technology (Politechnika Krakowska),0.0,Poland,Krakow,Europe,801
+830,2021,801-1000,Czech University of Life Sciences in Prague,0.0,Czech Republic,,Europe,801
+831,2021,801-1000,De La Salle University,0.0,Philippines,Manila,Asia,801
+832,2021,801-1000,De Montfort University,0.0,United Kingdom,Leicester,Europe,801
+833,2021,801-1000,Edinburgh Napier University,0.0,United Kingdom,Edinburgh,Europe,801
+834,2021,801-1000,Escuela Politécnica Nacional,0.0,Ecuador,,Latin America,801
+835,2021,801-1000,Fordham University ,0.0,United States,New York City,North America,801
+836,2021,801-1000,Gdańsk University of Technology,0.0,Poland,Gdańsk,Europe,801
+837,2021,801-1000,George Mason University,0.0,United States,Fairfax,North America,801
+838,2021,801-1000,German Jordanian University,0.0,Jordan,,Asia,801
+839,2021,801-1000,Glasgow Caledonian University,0.0,United Kingdom,London,Europe,801
+840,2021,801-1000,Gulf University for Science and Technology,0.0,Kuwait,Kuwait City,Asia,801
+841,2021,801-1000,Hacettepe University ,0.0,Turkey,Ankara,Asia,801
+842,2021,801-1000,Harbin Engineering University,0.0,China (Mainland),Harbin,Asia,801
+843,2021,801-1000,Islamic University of Madinah,0.0,Saudi Arabia,Medina,Asia,801
+844,2021,801-1000,Istanbul University,0.0,Turkey,Istanbul,Asia,801
+845,2021,801-1000,Karaganda State Technical University,0.0,Kazakhstan,Karaganda,Asia,801
+846,2021,801-1000,Kasetsart University,0.0,Thailand,Bangkok,Asia,801
+847,2021,801-1000,Kaunas University of Technology,0.0,Lithuania,Kaunas,Europe,801
+848,2021,801-1000,Kazakh Ablai Khan University of International Relations and World Languages,0.0,Kazakhstan,Almaty,Asia,801
+849,2021,801-1000,Kent State University,0.0,United States,Kent,North America,801
+850,2021,801-1000,Khon Kaen University,0.0,Thailand,Khon Kaen,Asia,801
+851,2021,801-1000,King Faisal University,0.0,Saudi Arabia,Hofuf,Asia,801
+852,2021,801-1000,King Mongkut's University of Technology Thonburi ,0.0,Thailand,Bangkok,Asia,801
+853,2021,801-1000,Kuwait University,0.0,Kuwait,Kuwait City,Asia,801
+854,2021,801-1000,Kyoto Institute of Technology,0.0,Japan,Kyoto,Asia,801
+855,2021,801-1000,Kyushu Institute of Technology ,0.0,Japan,Kitakyushu,Asia,801
+856,2021,801-1000,Lanzhou University,0.0,China (Mainland),Lanzhou,Asia,801
+857,2021,801-1000,Liverpool John Moores University,0.0,United Kingdom,Liverpool ,Europe,801
+858,2021,801-1000,Lodz University of Technology,0.0,Poland,Lodz,Europe,801
+859,2021,801-1000,London Metropolitan University,0.0,United Kingdom,London,Europe,801
+860,2021,801-1000,Loyola University Chicago,0.0,United States,Chicago,North America,801
+861,2021,801-1000,Manchester Metropolitan University (MMU),0.0,United Kingdom,Manchester ,Europe,801
+862,2021,801-1000,Multimedia University (MMU),0.0,Malaysia,Cyberjaya,Asia,801
+863,2021,801-1000,Nagoya Institute of Technology (NIT),0.0,Japan,Nagoya,Asia,801
+864,2021,801-1000,National Chung Cheng University,0.0,Taiwan,Minxiong Township,Asia,801
+865,2021,801-1000,Lviv Polytechnic National University,0.0,Ukraine,,Europe,801
+866,2021,801-1000,Nicolaus Copernicus University ,0.0,Poland,Toruń,Europe,801
+867,2021,801-1000,Novosibirsk State Technical University,0.0,Russia,Novosibirsk,Europe,801
+868,2021,801-1000,Ohio University,0.0,United States,Athens,North America,801
+869,2021,801-1000,Universitas Padjadjaran,0.0,Indonesia,Bandung,Asia,801
+870,2021,801-1000,Perm State National Research University,0.0,Russia,Perm,Europe,801
+871,2021,801-1000,Pontificia Universidad Católica de Valparaíso,0.0,Chile,Valparaíso,Latin America,801
+872,2021,801-1000,Pontificia Universidad Católica del Ecuador (PUCE),0.0,Ecuador,Quito,Latin America,801
+873,2021,801-1000,Pontifícia Universidade Católica de São Paulo,0.0,Brazil,São Paulo,Latin America,801
+874,2021,801-1000,Poznań University of Technology,0.0,Poland,,Europe,801
+875,2021,801-1000,Prince of Songkla University,0.0,Thailand,Hat Yai,Asia,801
+876,2021,801-1000,Princess Nourah bint Abdulrahman University,0.0,Saudi Arabia,,Asia,801
+877,2021,801-1000,Princess Sumaya University for Technology,0.0,Jordan,Amman,Asia,801
+878,2021,801-1000,"Queen Margaret University , Edinburgh",0.0,United Kingdom,Musselburgh,Europe,801
+879,2021,801-1000,Rhodes University ,0.0,South Africa,Grahamstown,Africa,801
+880,2021,801-1000,Riga Stradins University,0.0,Latvia,Riga,Europe,801
+881,2021,801-1000,Ritsumeikan University,0.0,Japan,Kyoto,Asia,801
+882,2021,801-1000,Ryerson University,0.0,Canada,Toronto,North America,801
+883,2021,801-1000,Saitama University,0.0,Japan,Saitama City,Asia,801
+884,2021,801-1000,San Diego State University,0.0,United States,San Diego ,North America,801
+885,2021,801-1000,Shanghai International Studies University,0.0,China (Mainland),Shanghai,Asia,801
+886,2021,801-1000,Sheffield Hallam University,0.0,United Kingdom,,Europe,801
+887,2021,801-1000,Shinshu University ,0.0,Japan,Matsumoto City,Asia,801
+888,2021,801-1000,Shiraz University,0.0,"Iran, Islamic Republic of",Shiraz,Asia,801
+889,2021,801-1000,Silesian University of Technology,0.0,Poland,Gliwice,Europe,801
+890,2021,801-1000,Slovak University of Technology in Bratislava,0.0,Slovakia,Bratislava,Europe,801
+891,2021,801-1000,Sophia University ,0.0,Japan,Tokyo,Asia,801
+892,2021,801-1000,South Ural State University (National Research University),0.0,Russia,Chelyabinsk,Europe,801
+893,2021,801-1000,Szent Istvan University,0.0,Hungary,Budapest,Europe,801
+894,2021,801-1000,Tallinn University ,0.0,Estonia,Tallinn,Europe,801
+895,2021,801-1000,Technical University of Kosice,0.0,Slovakia,Košice,Europe,801
+896,2021,801-1000,TU Dortmund University,0.0,Germany,Dortmund,Europe,801
+897,2021,801-1000,Technological University Dublin,0.0,Ireland,Dublin,Europe,801
+898,2021,801-1000,Tecnológico de Costa Rica -TEC,0.0,Costa Rica,Cartago,Latin America,801
+899,2021,801-1000,Texas Tech University,0.0,United States,Lubbock,North America,801
+900,2021,801-1000,Robert Gordon University,0.0,United Kingdom,Aberdeen,Europe,801
+901,2021,801-1000,Russian Presidential Academy of National Economy and Public Administration,0.0,Russia,Moscow,Europe,801
+902,2021,801-1000,Tokai University,0.0,Japan,Hiratsuka City,Asia,801
+903,2021,801-1000,Universidad Austral de Chile,0.0,Chile,Valdivia,Latin America,801
+904,2021,801-1000,Universidad Autónoma de Chapingo,0.0,Mexico,Texcoco,Latin America,801
+905,2021,801-1000,Universidad Autónoma del Estado de México (UAEMex),0.0,Mexico,Toluca de Lerdo,Latin America,801
+906,2021,801-1000,Universidad Autónoma Metropolitana (UAM),0.0,Mexico,Mexico City,Latin America,801
+907,2021,801-1000,Universidad Católica Andres Bello,0.0,Venezuela,Guayana City,Latin America,801
+908,2021,801-1000,Universidad Católica del Uruguay (UCU),0.0,Uruguay,Montevideo,Latin America,801
+909,2021,801-1000,University of Alicante,0.0,Spain,Alicante,Europe,801
+910,2021,801-1000,Universidad de la República (Udelar),0.0,Uruguay,Montevideo,Latin America,801
+911,2021,801-1000,Universidad de las Américas Puebla (UDLAP),0.0,Mexico,Cholula,Latin America,801
+912,2021,801-1000,Universidad de los Andes - Chile,0.0,Chile,Santiago,Latin America,801
+913,2021,801-1000,Universidad de Los Andes - (ULA) Mérida,0.0,Venezuela,Merida,Latin America,801
+914,2021,801-1000,University of Murcia,0.0,Spain,Murcia,Europe,801
+915,2021,801-1000,Universidad de Oviedo,0.0,Spain,Oviedo,Europe,801
+916,2021,801-1000,Universidad del Valle,0.0,Colombia,Cali,Latin America,801
+917,2021,801-1000,Universidad Diego Portales (UDP),0.0,Chile,Santiago,Latin America,801
+918,2021,801-1000,Universidad EAFIT,0.0,Colombia,Medellin,Latin America,801
+919,2021,801-1000,Universidad Nacional Costa Rica,0.0,Costa Rica,Heredia,Latin America,801
+920,2021,801-1000,Universidad Nacional de Córdoba - UNC,0.0,Argentina,Córdoba,Latin America,801
+921,2021,801-1000,Universidad Nacional de Rosario (UNR),0.0,Argentina,Rosario,Latin America,801
+922,2021,801-1000,Universidad Nacional de San Luis,0.0,Argentina,San Luis ,Latin America,801
+923,2021,801-1000,Universidad Nacional Mayor de San Marcos,0.0,Peru,Lima,Latin America,801
+924,2021,801-1000,Universidad Simón Bolívar (USB),0.0,Venezuela,Caracas,Latin America,801
+925,2021,801-1000,Universidad Técnica Federico Santa María (USM),0.0,Chile,Valparaíso,Latin America,801
+926,2021,801-1000,Universidad Tecnológica de Panamá (UTP),0.0,Panama,Panama City,Latin America,801
+927,2021,801-1000,Universidad Tecnológica Nacional (UTN),0.0,Argentina,Buenos Aires,Latin America,801
+928,2021,801-1000,Universidade Católica Portuguesa - UCP,0.0,Portugal,Lisbon,Europe,801
+929,2021,801-1000,Universidade da Coruña ,0.0,Spain,A Coruña,Europe,801
+930,2021,801-1000,Universidade de Brasília,0.0,Brazil,Brasília,Latin America,801
+931,2021,801-1000,Universidade Federal de Santa Catarina ,0.0,Brazil,Florianópolis,Latin America,801
+932,2021,801-1000,Universidade Federal de São Carlos (UFSCar),0.0,Brazil,São Paulo,Latin America,801
+933,2021,801-1000,Universidade Federal do Paraná - UFPR,0.0,Brazil,Curitiba,Latin America,801
+934,2021,801-1000,Universidade Federal de Pernambuco (UFPE) ,0.0,Brazil,Recife,Latin America,801
+935,2021,801-1000,Catania University,0.0,Italy,Catania,Europe,801
+936,2021,801-1000,Universita' degli Studi di Ferrara,0.0,Italy,Ferrara,Europe,801
+937,2021,801-1000,University of Salerno,0.0,Italy,Fisciano,Europe,801
+938,2021,801-1000,Università degli Studi di Udine,0.0,Italy,Udine,Europe,801
+939,2021,801-1000,Università degli studi Roma Tre,0.0,Italy,Rome,Europe,801
+940,2021,801-1000,University of Calabria,0.0,Italy,Rende,Europe,801
+941,2021,801-1000,Universita' Politecnica delle Marche,0.0,Italy,Ancona,Europe,801
+942,2021,801-1000,University of Palermo,0.0,Italy,Palermo,Europe,801
+943,2021,801-1000,Bielefeld University,0.0,Germany,Bielefeld,Europe,801
+944,2021,801-1000,Universität Potsdam,0.0,Germany,Potsdam,Europe,801
+945,2021,801-1000,Université de Lorraine,0.0,France,Nancy,Europe,801
+946,2021,801-1000,Université de Nantes,0.0,France,Nantes,Europe,801
+947,2021,801-1000,Université de Rennes 1,0.0,France,Rennes,Europe,801
+948,2021,801-1000,Université de Versailles Saint-Quentin-en-Yvelines (UVSQ),0.0,France,Versailles,Europe,801
+949,2021,801-1000,Paul Valéry University Montpellier,0.0,France,Montpellier,Europe,801
+950,2021,801-1000,Université Toulouse 1 Capitole,0.0,France,Toulouse,Europe,801
+951,2021,801-1000,Universiti Malaysia Sarawak (UNIMAS),0.0,Malaysia,Kuching,Asia,801
+952,2021,801-1000,Universiti Tunku Abdul Rahman (UTAR),0.0,Malaysia,Sungai Long,Asia,801
+953,2021,801-1000,Universiti Malaysia Perlis,0.0,Malaysia,Kangar,Asia,801
+954,2021,801-1000,The University of Alabama,0.0,United States,Tuscaloosa,North America,801
+955,2021,801-1000,University of Baghdad,0.0,Iraq,Baghdad,Asia,801
+956,2021,801-1000,University of Bahrain,0.0,Bahrain,Zallaq,Asia,801
+957,2021,801-1000,University of Bari,0.0,Italy,Bari,Europe,801
+958,2021,801-1000,University of Brighton,0.0,United Kingdom,,Europe,801
+959,2021,801-1000,University of Bucharest,0.0,Romania,Bucharest,Europe,801
+960,2021,801-1000,University of Calcutta,0.0,India,Kolkata,Asia,801
+961,2021,801-1000,University of Central Lancashire,0.0,United Kingdom,Preston,Europe,801
+962,2021,801-1000,University of Crete,0.0,Greece,Heraklion,Europe,801
+963,2021,801-1000,University of Dhaka,0.0,Bangladesh,Dhaka,Asia,801
+964,2021,801-1000,University of East London,0.0,United Kingdom,London,Europe,801
+965,2021,801-1000,University of Engineering & Technology (UET) Lahore,0.0,Pakistan,Lahore,Asia,801
+966,2021,801-1000,UNIVERSITY OF GDANSK,0.0,Poland,Gdańsk,Europe,801
+967,2021,801-1000,University of Hertfordshire,0.0,United Kingdom,Hatfield,Europe,801
+968,2021,801-1000,University of Kufa,0.0,Iraq,Kufa,Asia,801
+969,2021,801-1000,University of Kwazulu-Natal,0.0,South Africa,Pinetown,Africa,801
+970,2021,801-1000,University of Latvia,0.0,Latvia,Riga,Europe,801
+971,2021,801-1000,University of Lincoln,0.0,United Kingdom,Lincoln,Europe,801
+972,2021,801-1000,University of Lodz,0.0,Poland,Lodz,Europe,801
+973,2021,801-1000,Universiti Malaysia Sabah (UMS),0.0,Malaysia,Kota Kinabalu,Asia,801
+974,2021,801-1000,University of Malta,0.0,Malta,Msida,Europe,801
+975,2021,801-1000,University of Maribor,0.0,Slovenia,Maribor,Europe,801
+976,2021,801-1000,University of Miskolc ,0.0,Hungary,Miskolc,Europe,801
+977,2021,801-1000,University of Mississippi,0.0,United States,Oxford,North America,801
+978,2021,801-1000,University of New England Australia,0.0,Australia,Armidale,Oceania,801
+979,2021,801-1000,University of New Hampshire,0.0,United States,Durham,North America,801
+980,2021,801-1000,University of Pardubice,0.0,Czech Republic,Pardubice,Europe,801
+981,2021,801-1000,University of Parma,0.0,Italy,Parma,Europe,801
+982,2021,801-1000,University of Rijeka,0.0,Croatia,,Europe,801
+983,2021,801-1000,University of Salford,0.0,United Kingdom,Salford,Europe,801
+984,2021,801-1000,University of San Diego,0.0,United States,San Diego,North America,801
+985,2021,801-1000,University of Santo Tomas,0.0,Philippines,Manila,Asia,801
+986,2021,801-1000,University of the Pacific,0.0,United States,Stockton,North America,801
+987,2021,801-1000,University of the Punjab,0.0,Pakistan,Lahore,Asia,801
+988,2021,801-1000,University of the West of England,0.0,United Kingdom,Bristol,Europe,801
+989,2021,801-1000,University of Wroclaw,0.0,Poland,Wroclaw,Europe,801
+990,2021,801-1000,University of Wyoming,0.0,United States,Laramie,North America,801
+991,2021,801-1000,University of Zagreb,0.0,Croatia,Zagreb,Europe,801
+992,2021,801-1000,Utah State University ,0.0,United States,Logan,North America,801
+993,2021,801-1000,Verona University,0.0,Italy,Verona,Europe,801
+994,2021,801-1000,Viet Nam National University Ho Chi Minh City (VNU-HCM),0.0,Vietnam,Ho Chi Minh City,Asia,801
+995,2021,801-1000,"Vietnam National University, Hanoi ",0.0,Vietnam,Hanoi,Asia,801
+996,2021,801-1000,Vytautas Magnus University,0.0,Lithuania,Kaunas,Europe,801
+997,2021,801-1000,Wroclaw University of Science and Technology (WRUST),0.0,Poland,Wroclaw ,Europe,801
+998,2021,801-1000,Wuhan University of Technology,0.0,China (Mainland),Wuhan,Asia,801
+999,2021,801-1000,Xi'an Jiaotong Liverpool University,0.0,China (Mainland),Suzhou,Asia,801
+1000,2021,801-1000,Yamaguchi University ,0.0,Japan,Yamaguchi City,Asia,801
+1001,2021,801-1000,Yeungnam University ,0.0,South Korea,Gyeongsan,Asia,801
+1002,2021,801-1000,Yokohama National University,0.0,Japan,Yokohama City,Asia,801
+1003,2021,1001+,Al-Azhar University,0.0,Egypt,Cairo,Africa,1001
+1004,2021,1001+,Alexandru Ioan Cuza University,0.0,Romania,Iași,Europe,1001
+1005,2021,1001+,Amity University,0.0,India,Noida,Asia,1001
+1006,2021,1001+,An-Najah National University,0.0,"Palestinian Territory, Occupied",Nablus,Asia,1001
+1007,2021,1001+,Aoyama Gakuin University,0.0,Japan,Tokyo,Asia,1001
+1008,2021,1001+,Assiut University ,0.0,Egypt,Asyut,Africa,1001
+1009,2021,1001+,Azerbaijan State University of Economics,0.0,Azerbaijan,Baku,Asia,1001
+1010,2021,1001+,Baku State University,0.0,Azerbaijan,Baku,Asia,1001
+1011,2021,0,Baylor College of Medicine,0.0,United States,Houston,North America,0
+1012,2021,1001+,Belarusian State University of Informatics and Radioelectronics,0.0,Belarus,Minsk,Europe,1001
+1013,2021,1001+,Benemérita Universidad Autónoma de Puebla,0.0,Mexico,Puebla,Latin America,1001
+1014,2021,0,BI Norwegian Business School,0.0,Norway,Oslo,Europe,0
+1015,2021,1001+,"Birla Institute of Technology and Science, Pilani",0.0,India,Pilani,Asia,1001
+1016,2021,1001+,Birzeit university,0.0,"Palestinian Territory, Occupied",Birzeit,Asia,1001
+1017,2021,1001+,Brigham Young University,0.0,United States,Provo,North America,1001
+1018,2021,1001+,Canterbury Christ Church University,0.0,United Kingdom,Bexleyheath,Europe,1001
+1019,2021,0,Central European University,0.0,Austria,Vienna,Europe,0
+1020,2021,1001+,Chung Yuan Christian University,0.0,Taiwan,Taoyuan City,Asia,1001
+1021,2021,0,Copenhagen Business School,0.0,Denmark,Frederiksberg,Europe,0
+1022,2021,0,Cranfield University,0.0,United Kingdom,Bedford,Europe,0
+1023,2021,1001+,Damascus University,0.0,Syrian Arab Republic,Damascus,Asia,1001
+1024,2021,1001+,Diponegoro University,0.0,Indonesia,Semarang,Asia,1001
+1025,2021,1001+,Dokuz Eylül Üniversitesi,0.0,Turkey,Izmir,Asia,1001
+1026,2021,1001+,Doshisha University,0.0,Japan,Kyoto,Asia,1001
+1027,2021,1001+,Academician Y.A. Buketov Karaganda University,0.0,Kazakhstan,Karaganda,Asia,1001
+1028,2021,1001+,EGE UNIVERSITY,0.0,Turkey,İzmir,Asia,1001
+1029,2021,0,ESCP Business School - Paris,0.0,France,Paris,Europe,0
+1030,2021,1001+,Escuela Superior Politécnica del Litoral (ESPOL),0.0,Ecuador,Guayaquil,Latin America,1001
+1031,2021,0,ESSEC Business School,0.0,France,Cergy,Europe,0
+1032,2021,1001+,Feng Chia University,0.0,Taiwan,Taichung City,Asia,1001
+1033,2021,1001+,Fu Jen Catholic University,0.0,Taiwan,New Taipei City,Asia,1001
+1034,2021,1001+,Gazi Üniversitesi,0.0,Turkey,Ankara,Asia,1001
+1035,2021,1001+,German University in Cairo,0.0,Egypt,Cairo,Africa,1001
+1036,2021,0,Institut polytechnique de Grenoble - Grenoble Institute of Technology,0.0,France,Grenoble,Europe,0
+1037,2021,1001+,Hanoi University of Science and Technology,0.0,Vietnam,Hanoi,Asia,1001
+1038,2021,0,HEC Paris School of Management,0.0,France,Paris,Europe,0
+1039,2021,1001+,Helwan University ,0.0,Egypt,Helwan,Africa,1001
+1040,2021,0,IMT Atlantique,0.0,France,Nantes,Europe,0
+1041,2021,0,INSEAD,0.0,France,Fontainebleau,Europe,0
+1042,2021,1001+,Izmir Institute of Technology (IZTECH),0.0,Turkey,Izmir,Asia,1001
+1043,2021,1001+,Jamia Hamdard,0.0,India,New Delhi,Asia,1001
+1044,2021,0,Jawaharlal Nehru University,0.0,India,New Delhi,Asia,0
+1045,2021,0,Karolinska Institutet,0.0,Sweden,Stockholm,Europe,0
+1046,2021,0,King Abdullah University of Science & Technology (KAUST),0.0,Saudi Arabia,Thuwal,Asia,0
+1047,2021,1001+,King Mongkut's Institute of Technology Ladkrabang,0.0,Thailand,Bangkok,Asia,1001
+1048,2021,1001+,Leeds Beckett University,0.0,United Kingdom,Leeds,Europe,1001
+1049,2021,0,London Business School,0.0,United Kingdom,London,Europe,0
+1050,2021,1001+,Makerere University,0.0,Uganda,Kampala,Africa,1001
+1051,2021,1001+,Mansoura University,0.0,Egypt,Mansoura ,Africa,1001
+1052,2021,1001+,Marquette University,0.0,United States,Milwaukee,North America,1001
+1053,2021,1001+,Meiji University,0.0,Japan,Tokyo,Asia,1001
+1054,2021,1001+,Miami University,0.0,United States,Oxford,North America,1001
+1055,2021,1001+,Mustansiriyah University,0.0,Iraq,Baghdad,Asia,1001
+1056,2021,1001+,National Dong Hwa University,0.0,Taiwan,Hualien City,Asia,1001
+1057,2021,1001+,National Taiwan Ocean University,0.0,Taiwan,Keelung City,Asia,1001
+1058,2021,1001+,National University of Kyiv-Mohyla Academy (NaUKMA),0.0,Ukraine,,Europe,1001
+1059,2021,1001+,North-West University,0.0,South Africa,Potchefstroom,Africa,1001
+1060,2021,1001+,Northern Arizona University,0.0,United States,Flagstaff,North America,1001
+1061,2021,1001+,Panjab University,0.0,India,Chandigarh,Asia,1001
+1062,2021,1001+,S. Toraighyrov Pavlodar State University,0.0,Kazakhstan,Pavlodar,Asia,1001
+1063,2021,1001+,Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS),0.0,Brazil,Porto Alegre,Latin America,1001
+1064,2021,1001+,Rikkyo University,0.0,Japan,Tokyo,Asia,1001
+1065,2021,1001+,Russian State University for the Humanities ,0.0,Russia,Moscow,Europe,1001
+1066,2021,1001+,Saken Seifullin Kazakh Agrotechnical University,0.0,Kazakhstan,Nur-Sultan,Asia,1001
+1067,2021,0,Scuola Normale Superiore,0.0,Italy,Pisa,Europe,0
+1068,2021,0,Sant'Anna - Scuola Universitaria Superiore Pisa,0.0,Italy,Pisa,Europe,0
+1069,2021,1001+,Seoul National University of Science and Technology,0.0,South Korea,Seoul,Asia,1001
+1070,2021,1001+,Shahid Beheshti University (SBU),0.0,"Iran, Islamic Republic of",Tehran,Asia,1001
+1071,2021,1001+,"Siberian Federal University, SibFU",0.0,Russia,Krasnoyarsk,Europe,1001
+1072,2021,0,"St George's, University of London",0.0,United Kingdom,London,Europe,0
+1073,2021,1001+,Saint-Petersburg Mining University,0.0,Russia,St. Petersburg,Europe,1001
+1074,2021,0,Stockholm School of Economics,0.0,Sweden,,Europe,0
+1075,2021,1001+,Suranaree University of Technology ,0.0,Thailand,Nakhon Ratchasima ,Asia,1001
+1076,2021,1001+,Tamkang University,0.0,Taiwan,New Taipei City,Asia,1001
+1077,2021,1001+,Technical University of Cluj-Napoca,0.0,Romania,,Europe,1001
+1078,2021,1001+,VSB - Technical University of Ostrava,0.0,Czech Republic,Ostrava,Europe,1001
+1079,2021,0,TELECOM Paris,0.0,France,Paris,Europe,0
+1080,2021,1001+,Thapar Institute of Engineering & Technology,0.0,India,Patiala,Asia,1001
+1081,2021,1001+,"The ""Gheorghe Asachi"" Technical University of Iasi",0.0,Romania,Iași,Europe,1001
+1082,2021,1001+,The Hashemite University,0.0,Jordan,Zarqa,Asia,1001
+1083,2021,1001+,Ton Duc Thang University,0.0,Vietnam,Ho Chi Minh City,Asia,1001
+1084,2021,1001+,Tunghai University,0.0,Taiwan,Taichung City,Asia,1001
+1085,2021,1001+,Universidad Andrés Bello,0.0,Chile,Santiago,Latin America,1001
+1086,2021,1001+,Universidad Autónoma de Baja California,0.0,Mexico,Baja California,Latin America,1001
+1087,2021,1001+,Universidad Autónoma de Chile,0.0,Chile,,Latin America,1001
+1088,2021,1001+,Universidad Autónoma de Nuevo León,0.0,Mexico,San Nicolás de los Garza,Latin America,1001
+1089,2021,1001+,Universidad Autónoma de Querétaro (UAQ),0.0,Mexico,Querétaro,Latin America,1001
+1090,2021,1001+,Universidad Autónoma de San Luis de Potosí,0.0,Mexico,San Luis Potosí,Latin America,1001
+1091,2021,1001+,Universidad Autonoma de Yucatan,0.0,Mexico,Mérida,Latin America,1001
+1092,2021,1001+,Universidad Autónoma del Estado de Morelos (UAEM),0.0,Mexico,Cuernavaca,Latin America,1001
+1093,2021,1001+,"Universidad Católica Boliviana ""San Pablo""",0.0,Bolivia,La Paz,Latin America,1001
+1094,2021,1001+,Universidad Católica de Colombia ,0.0,Colombia,Bogotá,Latin America,1001
+1095,2021,1001+,Católica de Córdoba,0.0,Argentina,Córdoba,Latin America,1001
+1096,2021,1001+,Universidad Católica del Norte,0.0,Chile,Antofagasta,Latin America,1001
+1097,2021,1001+,Universidad Central del Ecuador,0.0,Ecuador,Quito,Latin America,1001
+1098,2021,1001+,Universidad de Castilla-La Mancha,0.0,Spain,Ciudad Real,Europe,1001
+1099,2021,1001+,Universidad de Guanajuato,0.0,Mexico,Guanajuato,Latin America,1001
+1100,2021,1001+,Universidad de La Frontera (UFRO),0.0,Chile,Temuco,Latin America,1001
+1101,2021,1001+,Universidad de La Salle,0.0,Colombia,Bogotá,Latin America,1001
+1102,2021,1001+,Universidad de las Fuerzas Armadas ESPE (Ex - Escuela Politécnica del Ejército),0.0,Ecuador,Sangolquí,Latin America,1001
+1103,2021,1001+,Universidad de Lima,0.0,Peru,Lima,Latin America,1001
+1104,2021,1001+,Universidad de Medellín,0.0,Colombia,Medellin,Latin America,1001
+1105,2021,1001+,Universidad de Monterrey (UDEM),0.0,Mexico,San Pedro Garza García,Latin America,1001
+1106,2021,1001+,Universidad de Panamá - UP,0.0,Panama,Panama City,Latin America,1001
+1107,2021,1001+,Universidad de Puerto Rico,0.0,Puerto Rico,San Juan,Latin America,1001
+1108,2021,1001+,Universidad de Sonora,0.0,Mexico,Hermosillo,Latin America,1001
+1109,2021,1001+,Universidad de Talca,0.0,Chile,Talca,Latin America,1001
+1110,2021,1001+,Universidad de Valparaíso (UV),0.0,Chile,Valparaíso,Latin America,1001
+1111,2021,1001+,Universidad del Bío-Bío,0.0,Chile,Concepción,Latin America,1001
+1112,2021,1001+,Universidad del Desarrollo (UDD),0.0,Chile,Santiago,Latin America,1001
+1113,2021,1001+,Universidad del Norte ,0.0,Colombia,Barranquilla,Latin America,1001
+1114,2021,1001+,Universidad del Pacífico,0.0,Peru,Jesús María,Latin America,1001
+1115,2021,1001+,Universidad Industrial de Santander - UIS,0.0,Colombia,Bucaramanga,Latin America,1001
+1116,2021,1001+,Universidad Mayor de San Andrés (UMSA),0.0,Bolivia,La Paz,Latin America,1001
+1117,2021,1001+,Universidad Metropolitana,0.0,Venezuela,Caracas,Latin America,1001
+1118,2021,1001+,Universidad Nacional Agraria la Molina,0.0,Peru,Lima,Latin America,1001
+1119,2021,1001+,Universidad Nacional de la Asunción,0.0,Paraguay,San Lorenzo,Latin America,1001
+1120,2021,1001+,Universidad Nacional de Cuyo,0.0,Argentina,Mendoza,Latin America,1001
+1121,2021,1001+,Universidad Nacional de Mar del Plata,0.0,Argentina,Mar del Plata,Latin America,1001
+1122,2021,1001+,Universidad Nacional de Quilmes,0.0,Argentina,Bernal,Latin America,1001
+1123,2021,1001+,Universidad Nacional de San Martín (UNSAM),0.0,Argentina,Buenos Aires,Latin America,1001
+1124,2021,1001+,Universidad Nacional de Tucumà¡n,0.0,Argentina,San Miguel de Tucumán,Latin America,1001
+1125,2021,1001+,Universidad Nacional del Litoral,0.0,Argentina,Santa Fe,Latin America,1001
+1126,2021,1001+,Universidad Nacional del Sur,0.0,Argentina,Bahia Blanca,Latin America,1001
+1127,2021,1001+,Universidad Peruana de Ciencias Aplicadas,0.0,Peru,Lima,Latin America,1001
+1128,2021,1001+,Universidad Rey Juan Carlos,0.0,Spain,Alcorcón,Europe,1001
+1129,2021,1001+,Universidade de Vigo,0.0,Spain,,Europe,1001
+1130,2021,1001+,Universidade do Estado do Rio de Janeiro (UERJ),0.0,Brazil,Rio de Janeiro,Latin America,1001
+1131,2021,1001+,Universidade Estadual de Londrina,0.0,Brazil,Londrina,Latin America,1001
+1132,2021,1001+,Universidade Federal da Bahia,0.0,Brazil,Salvador,Latin America,1001
+1133,2021,1001+,Universidade Federal de Santa Maria,0.0,Brazil,Frederico Westphalen,Latin America,1001
+1134,2021,1001+,Universidade Federal de Viçosa (UFV),0.0,Brazil,Viçosa,Latin America,1001
+1135,2021,1001+,Universidade Federal do Ceará (UFC),0.0,Brazil,Fortaleza,Latin America,1001
+1136,2021,1001+,Universidade Federal Fluminense ,0.0,Brazil,Rio de Janeiro,Latin America,1001
+1137,2021,0,Bocconi University,0.0,Italy,Milan,Europe,0
+1138,2021,1001+,Universitas Muhammadiyah Surakarta,0.0,Indonesia,Surakarta,Asia,1001
+1139,2021,1001+,Universität Siegen,0.0,Germany,Siegen,Europe,1001
+1140,2021,1001+,Université de Caen Normandie,0.0,France,Caen,Europe,1001
+1141,2021,1001+,Université de Poitiers,0.0,France,Poitiers,Europe,1001
+1142,2021,0,Université de Technologie de Compiègne (UTC),0.0,France,Compiègne,Europe,0
+1143,2021,1001+,Université Jean Moulin Lyon 3,0.0,France,Lyon,Europe,1001
+1144,2021,1001+,Université Lumière Lyon 2,0.0,France,Lyon,Europe,1001
+1145,2021,1001+,Université Mohammed V de Rabat,0.0,Morocco,Rabat,Africa,1001
+1146,2021,1001+,Université Paris-Nanterre,0.0,France,Paris,Europe,1001
+1147,2021,1001+,Universiti Malaysia Terengganu (UMT),0.0,Malaysia,Kuala Terengganu,Asia,1001
+1148,2021,1001+,Università degli studi di Bergamo,0.0,Italy,Bergamo,Europe,1001
+1149,2021,1001+,"University of Agriculture, Faisalabad ",0.0,Pakistan,Faisalabad,Asia,1001
+1150,2021,1001+,University of Arkansas Fayetteville ,0.0,United States,Fayetteville,North America,1001
+1151,2021,1001+,University of Babylon,0.0,Iraq,Hillah,Asia,1001
+1152,2021,1001+,University of Basrah,0.0,Iraq,Basrah,Asia,1001
+1153,2021,1001+,University of Belgrade,0.0,Serbia,Belgrade,Europe,1001
+1154,2021,1001+,Universitas Brawijaya ,0.0,Indonesia,Malang ,Asia,1001
+1155,2021,0,"University of California, San Francisco",0.0,United States,San Francisco,North America,0
+1156,2021,1001+,University of Colombo,0.0,Sri Lanka,Horana,Asia,1001
+1157,2021,0,Prague University of Economics and Business,0.0,Czech Republic,Prague,Europe,0
+1158,2021,1001+,University of Ghana,0.0,Ghana,Legon,Africa,1001
+1159,2021,1001+,University of Karachi,0.0,Pakistan,Karachi,Asia,1001
+1160,2021,1001+,The University of Lahore,0.0,Pakistan,Lahore,Asia,1001
+1161,2021,1001+,University of Montana Missoula ,0.0,United States,Missoula ,North America,1001
+1162,2021,1001+,University of Mumbai,0.0,India,Mumbai,Asia,1001
+1163,2021,1001+,University of Nairobi,0.0,Kenya,Nairobi,Africa,1001
+1164,2021,1001+,University of Niš,0.0,Serbia,,Europe,1001
+1165,2021,1001+,University of Novi Sad,0.0,Serbia,Novi Sad,Europe,1001
+1166,2021,1001+,University of Ostrava,0.0,Czech Republic,Ostrava,Europe,1001
+1167,2021,1001+,University of Peradeniya ,0.0,Sri Lanka,Peradeniya,Asia,1001
+1168,2021,1001+,University of San Francisco,0.0,United States,San Francisco,North America,1001
+1169,2021,1001+,University of Sarajevo ,0.0,Bosnia and Herzegovina,Sarajevo,Europe,1001
+1170,2021,1001+,University of Silesia in Katowice,0.0,Poland,Katowice,Europe,1001
+1171,2021,1001+,University of Split,0.0,Croatia,Split,Europe,1001
+1172,2021,0,University of the Arts London,0.0,United Kingdom,London,Europe,0
+1173,2021,1001+,University of the Western Cape,0.0,South Africa,Cape Town,Africa,1001
+1174,2021,1001+,University of West Bohemia ,0.0,Czech Republic,Plzen,Europe,1001
+1175,2021,1001+,University POLITEHNICA of Bucharest,0.0,Romania,Bucharest,Europe,1001
+1176,2021,1001+,Université de Toulouse II-Le Mirail,0.0,France,Toulouse,Europe,1001
+1177,2021,1001+,Vellore Institute of Technology (VIT),0.0,India,Vellore,Asia,1001
+1178,2021,1001+,Voronezh State University,0.0,Russia,Voronezh ,Europe,1001
+1179,2021,1001+,Warsaw University of Life Sciences – SGGW (WULS-SGGW),0.0,Poland,Warsaw,Europe,1001
+1180,2021,0,Weizmann Institute of Science,0.0,Israel,Rehovot,Asia,0
+1181,2021,1001+,Universitatea de Vest din Timisoara /  West University of Timisoara,0.0,Romania,Timișoara,Europe,1001
+1182,2021,0,WHU - Otto Beisheim School of Management ,0.0,Germany,Vallendar,Europe,0
+1183,2021,1001+,Yarmouk University,0.0,Jordan,Irbid,Asia,1001
+1184,2021,1001+,Yildiz Technical University,0.0,Turkey,Istanbul,Asia,1001
