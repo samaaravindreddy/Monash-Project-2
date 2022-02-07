@@ -128,7 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 #backup files
 *backup
 *.ipynb_checkpoints
 *keys
+=======
+#config
+config.py
+>>>>>>> 23a7ac184e7c3fbd078e689f5fc6a426b55263d4
