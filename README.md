@@ -25,14 +25,14 @@ The selected dataset contains a number of six CSV files, one for each year, plus
 
 The database is a relational database being structures in tables for universities and ranking. 
 
-QS World University Rankings is published annually by UK company Quacquarelli Symonds (QS) that analysis higher education institutions around the world and publish the results, in the current form, since 2004. The list contains more than 1000 universities and it is a trusted reference top universities in the world. 
+QS World University Rankings is published annually by UK company "Quacquarelli Symonds" (QS) that analysis higher education institutions around the world and publish the results, in the current form, since 2004. The list contains more than 1000 universities and it is a trusted reference top universities in the world. 
 
 Suggested files allocation<br />
 
-Anh Huong QS World University Rankings 2022.csv<br />
-Daniela Cornea QS World University Rankings 2021.csv<br />
-Aravind Sama QS World University Rankings 2020.csv<br />
-Mino Peric QS World University Rankings 2019.csv<br />
+Anh Huong, "QS World University Rankings 2022.csv"<br />
+Daniela Cornea, "QS World University Rankings 2021.csv"<br />
+Aravind Sama, "QS World University Rankings 2020.csv"<br />
+Mino Peric, "QS World University Rankings 2019.csv"<br />
 
 #### Project plan and development<br />
 
@@ -61,7 +61,7 @@ Each file has around 1000 rows, representing universities around the world.
 Data cleaning required for the files included:   
 
 - replace NAN values in the "score" column with zero,   
-- rename "rank_display" column as "rank"and replace NAN values with zero, retain the lower rank, drop unnecessary information such as special characters, remove "=" sing that appears in front of the rank in some rows.
+- rename "rank_display" column as "rank"and replace NAN values with zero, retain the lower rank, drop unnecessary information such as special characters, remove "=" sign that appears in front of the rank in some rows.
 
 ##### Load
 
@@ -75,7 +75,8 @@ The table uni_rank has the following headings university, year, rank, score. Thi
 
 ##### Summary
 
-From 2017 to 2021, the Massachusetts University of Technology (MIT), Stanford University, and Harvard University took out first, second, and third place in the QS Top University rankings, respectively. In 2022, MIT continued to be placed as the top-ranked university globally, with The University of Oxford being ranked second, Stanford University placing third, and Harvard University placing fifth overall. 
+From 2017 to 2021, the Massachusetts University of Technology (MIT), Stanford University, and Harvard University took out first, second, and third place in the QS Top University rankings, respectively.
+
+In 2022, MIT continued to be placed as the top-ranked university globally, with The University of Oxford being ranked second, Stanford University placing third, and Harvard University placing fifth overall. 
 
 Consequently, for each year included in the study, the top ten university rankings consisted of universities from OECD-member countries, including USA, Switzerland and the United Kingdom, implying a positive correlation between high-university standards and high-income economies worldwide.
-
