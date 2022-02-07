@@ -55,13 +55,13 @@ Each file has around 1000 rows, representing universities around the world.
 
 Data cleaning required for the files included:   
 - replace NAN values in the "score" column with zero,   
-- rename "rank_display" column as "rank"and replace NAN values with zero, retain the lower rank, drop unnecessary information such as special characters, remove "=" sing that appears in front of the rank in some rows.
+- rename "rank_display" column as "rank"and replace NAN values with zero, retain the lower rank, drop unnecessary information such as special characters, remove "=" sign that appears in front of the rank in some rows.
 
 ##### Load
 
 Database UniRankingDC created in PGAdmin includes 3 tables: cities, universities and uni_rank.
 
-Cities has three headings: city, country and region. This table is to be updated with the cities where universities are located. Some universities offer study programs in more than one city.
+Cities table has three headings: city, country and region. This table is to be updated with the cities where universities are located. Some universities offer study programs in more than one city.
 
 The headings for universities table are university, country, city and region. This table is intended to be a list with all universities.
 
