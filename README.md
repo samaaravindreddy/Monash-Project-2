@@ -1,5 +1,4 @@
-# Monash-Project-2
-MONU Project2
+# ETL-Project-Group-1
 
 ## Project subject  
 
@@ -67,6 +66,11 @@ The headings for universities table are university, country, city and region. Th
 
 The table uni_rank has the following headings university, year, rank, score. This table contains information about ranking by year. It permits analysing and plotting data for a longer period.
 
+##### Summary
+
+From 2017 to 2021, the Massachusetts University of Technology (MIT), Stanford University, and Harvard University took out first, second, and third place in the QS Top University rankings, respectively. In 2022, MIT continued to be placed as the top-ranked university globally, with The University of Oxford being ranked second, Stanford University placing third, and Harvard University placing fifth overall. 
+
+Consequently, for each year included in the study, the top ten university rankings consisted of universities from OECD-member countries, including USA, Switzerland and the United Kingdom, implying a positive correlation between high-university standards and high-income economies worldwide.
 
 
 
