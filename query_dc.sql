@@ -76,7 +76,7 @@ SELECT * FROM uni_rank1;
 
 
 -- Join tables on university
-SELECT universities.university, universities.country, uni_rank1.rank, uni_rank1.year
+SELECT universities.university as uni, universities.country as country, uni_rank1.rank as rank, uni_rank1.year as year
 FROM universities
 INNER JOIN uni_rank1
 ON universities.university = uni_rank1.university;
