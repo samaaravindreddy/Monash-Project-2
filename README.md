@@ -61,12 +61,18 @@ Each file has around 1000 rows, representing universities around the world.
 
 #### Transform
 
+Turn dirty data to cleaned data prior to upload to the SQL database with no data loss.
+
 Data cleaning required for the files included:   
 
 - replace NAN values in the "score" column with zero,   
 - rename "rank_display" column as "rank"and replace NAN values with zero, retain the lower rank, drop unnecessary information such as special characters, remove "=" sign that appears in front of the rank in some rows.
 
+This is the first time ETL was performing on this dataset and since the data file for 2022 is the latest/most recent dataset, thereofre some identified missing values in the city column had been filled to support for the future ETL computations.
+
 #### Load
+
+Each team member practiced their ETL skills in a creative way, i.e. created their own postgresql tables with minimum of 2 tables were created for their database.
 
 Database UniRankingDC created in PGAdmin includes 3 tables: cities, universities and uni_rank.
 
@@ -75,6 +81,8 @@ Cities table has three headings: city, country and region. This table is to be u
 The headings for universities table are university, country, city and region. This table is intended to be a list with all universities.
 
 The table uni_rank has the following headings university, year, rank, score. This table contains information about ranking by year. It permits analysing and plotting data for a longer period.
+
+Database QS_Uni_Ranking_db created in pgADmin contained 2 tables: uni_rank and uni_details. Refer to the files _.sql_ for more details of the tables structure/schema and codes that validated the data load and data loss (through the ETL process).
 
 ## Data Analytics
 
