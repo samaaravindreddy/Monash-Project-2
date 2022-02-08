@@ -7,6 +7,9 @@
 Dataset source:
 
 https://www.kaggle.com/prasertk/qs-world-university-rankings-2021?select=QS+World+University+Rankings+combined.csv.<br />
+https://www.kaggle.com/juanmah/world-cities.<br/>
+
+QS University: https://www.topuniversities.com/ <br/>
 
 ##### Team members
 
