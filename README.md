@@ -89,7 +89,7 @@ Consequently, for each year included in the study, the top ten university rankin
 1. Folder "Resources": contains input data csv files
 2. Folder "Output_DC": contains program output data files and graphs generated from pandas (by Daniela Cornea)
 3. Anh Huong: ETL for year 2022 datafile, jupyter notebook: _QS_Uni_2022_ah.ipynb_, and SQL schema/query: _query_ah.sql_
-4. Daniela Cornea: ETL for year 2021 datafile, jupyter notebook: _QS_Uni_2021_dc.ipynb_, and SQL schema/query: _query_dc.sql_, schema_dc.sql_
+4. Daniela Cornea: ETL for year 2021 datafile, jupyter notebook: _QS_Uni_2021_dc.ipynb_, and SQL schema/query: _query_dc.sql_
 5. Mino Peric: ETL for year 2019 datafile, jupyter notebook: _QS_Uni_2019_MP.ipynb_, and SQL schema/query: _query_MP.sql_, _QDBD_overview_MP.png_
 6. Aravind Sama: 
 7. Team contribution: presentation pack: _ETL-Project-Group-1.pptx_ and ReadMe (this file)
