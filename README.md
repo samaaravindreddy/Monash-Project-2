@@ -73,10 +73,20 @@ The headings for universities table are university, country, city and region. Th
 
 The table uni_rank has the following headings university, year, rank, score. This table contains information about ranking by year. It permits analysing and plotting data for a longer period.
 
-##### Summary
+##### Data Analytics
 
 From 2017 to 2021, the Massachusetts University of Technology (MIT), Stanford University, and Harvard University took out first, second, and third place in the QS Top University rankings, respectively.
 
 In 2022, MIT continued to be placed as the top-ranked university globally, with The University of Oxford being ranked second, Stanford University placing third, and Harvard University placing fifth overall. 
 
 Consequently, for each year included in the study, the top ten university rankings consisted of universities from OECD-member countries, including USA, Switzerland and the United Kingdom, implying a positive correlation between high-university standards and high-income economies worldwide.
+
+## Project Submission:
+
+1. Folder "Resources": contains input data csv files
+2. Folder "Output_DC": contains program output data files and graphs generated from pandas (by Daniela Cornea)
+3. Anh Huong: ETL for year 2022 datafile, jupyter notebook: _QS_Uni_2022_ah.ipynb_, and SQL schema/query: _query_ah.sql_
+4. Daniela Cornea: ETL for year 2021 datafile, jupyter notebook: _QS_Uni_2021_dc.ipynb_, and SQL schema/query: _query_dc.sql_, schema_dc.sql_
+5. Mino Peric: ETL for year 2019 datafile, jupyter notebook: _QS_Uni_2019_MP.ipynb_, and SQL schema/query: _query_MP.sql_, _QDBD_overview_MP.png_
+6. Aravind Sama: 
+7. Team contribution: presentation pack: _ETL-Project-Group-1.pptx_ and ReadMe (this file)
